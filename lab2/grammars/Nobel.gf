@@ -11,7 +11,6 @@ fun
   BornSentence : Name -> Country -> Date -> Sentence ;
   AwardSentence : Name -> Award -> Date -> Sentence ;
   DiedSentence : Name -> Date -> Sentence ;
-
   FemaleName : String -> Name ; -- needed for gender agreement
   MaleName : String -> Name ; -- needed for gender agreement
   StringName : String -> Name ;

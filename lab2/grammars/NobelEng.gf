@@ -20,7 +20,8 @@ lin
   DiedSentence name date =
     mkS pastTense (mkCl name (mkVP die_VP date)) ;
 
-  StringName s = symb s ;
+  FemaleName s = symb s ; -- use if your language needs gender agreement
+  MaleName s = symb s ; -- use if your language needs gender agreement
   
   YearDate i = inAdv <symb i : NP> ;
 
