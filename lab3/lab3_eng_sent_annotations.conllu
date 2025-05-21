@@ -1,0 +1,17 @@
+
+
+
+1   Who _   PRON    _   _   0   root   _   _   
+2   are _   AUX _   _   1   cop    _   _
+3   they    _   PRON    _   _   1   nsubj   _   _
+4   ?   _   PUNCT   _   _   1   punct   _   _
+
+1   A   _   DET _   _   3   det _   _
+2   small   _   ADJ _   _   3   amod    _   _
+3   town    _   NOUN    _   _   7   nsubj   _   _
+4   with    _   ADP _   _   6   case    _   _   
+5   two _   NUM _   _   6   nummod    _   _
+6   minarets    _   NOUN    _   _   3   nmod    _   _
+7   glides:<VERB>
+8   by:<ADV>
+9   .:<PUNCT>

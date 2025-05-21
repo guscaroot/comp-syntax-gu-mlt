@@ -1,0 +1,1023 @@
+                              
+         *  *  *              
+      *           *           
+    *               *         
+   *                          
+   *                          
+   *        * * * * * *       
+   *        *         *       
+    *       * * * *  *        
+      *     *      *          
+         *  *  *              
+                              
+This is GF version 3.11.0. 
+Built on mingw32/x86_64 with ghc-8.6, flags: interrupt server
+License: see help -license.   
+
+linking ... OK
+
+Languages: MicroLangFre MicroLangFunctorFre
+MicroLang> PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV swim_V) now_Adv) (PrepNP on_Prep (UsePron he_Pron)))	il nage maintenant sur lui	il nage maintenant sur lui
+PredVPS (UsePron he_Pron) (ComplV2 teach_V2 (DetCN aPl_Det (UseN fire_N)))	il enseigne des feux	il enseigne des feux
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV come_V) already_Adv) (PrepNP in_Prep (UsePron she_Pron)))	il vient d‚j… dans elle	il vient d‚j… dans elle
+PredVPS (DetCN the_Det (AdjCN (PositA good_A) (UseN baby_N))) (UseComp (CompAP (PositA green_A)))	le bon b‚b‚ est vert	le bon b‚b‚ est vert
+PredVPS (DetCN thePl_Det (AdjCN (PositA clean_A) (UseN book_N))) (UseV run_V)	les livres propres courent	les livres propres courent
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 see_V2 (UsePron they_Pron)) now_Adv)	il les voit maintenant	il les voit maintenant
+PredVPS (DetCN aPl_Det (UseN computer_N)) (UseComp (CompAP (PositA black_A)))	des ordinateurs sont noirs	des ordinateurs sont noirs
+PredVPS (UsePron they_Pron) (UseV walk_V)	ils marchent	ils marchent
+PredVPS (DetCN aPl_Det (UseN city_N)) (ComplV2 kill_V2 (DetCN thePl_Det (UseN dog_N)))	des villes tuent les chiens	des villes tuent les chiens
+PredVPS (DetCN the_Det (UseN beer_N)) (UseComp (CompAP (PositA green_A)))	la biŠre est verte	la biŠre est verte
+PredVPS (UsePron they_Pron) (ComplV2 love_V2 (DetCN the_Det (UseN fish_N)))	ils aiment le poisson	ils aiment le poisson
+PredVPS (DetCN aPl_Det (UseN city_N)) (UseV swim_V)	des villes nagent	des villes nagent
+PredVPS (DetCN a_Det (UseN fire_N)) (ComplV2 buy_V2 (DetCN a_Det (UseN language_N)))	un feu achŠte une langue	un feu achŠte une langue
+PredVPS (DetCN aPl_Det (AdjCN (PositA big_A) (UseN fire_N))) (UseV play_V)	des grands feux jouent	des grands feux jouent
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA blue_A)))	il est bleu	il est bleu
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA clean_A)))	il est propre	il est propre
+PredVPS (DetCN a_Det (AdjCN (PositA old_A) (UseN water_N))) (ComplV2 break_V2 (UsePron they_Pron))	une vieille eau les casse	une vieille eau les casse
+PredVPS (UsePron she_Pron) (ComplV2 break_V2 (UsePron she_Pron))	elle la casse	elle la casse
+PredVPS (DetCN aPl_Det (UseN wine_N)) (UseV travel_V)	des vins voyagent	des vins voyagent
+PredVPS (DetCN a_Det (UseN cloud_N)) (AdvVP (ComplV2 wait_V2 (UsePron he_Pron)) already_Adv)	un nuage l' attend d‚j…	un nuage l' &+ attend d‚j…
+PredVPS (UsePron he_Pron) (ComplV2 buy_V2 (UsePron she_Pron))	il l' achŠte	il l' &+ achŠte
+PredVPS (DetCN the_Det (UseN beer_N)) (ComplV2 drink_V2 (DetCN aPl_Det (UseN boat_N)))	la biŠre boit des bateaux	la biŠre boit des bateaux
+PredVPS (UsePron she_Pron) (UseV play_V)	elle joue	elle joue
+PredVPS (UsePron she_Pron) (ComplV2 kill_V2 (DetCN thePl_Det (UseN fish_N)))	elle tue les poissons	elle tue les poissons
+PredVPS (DetCN the_Det (AdjCN (PositA new_A) (UseN bike_N))) (AdvVP (UseV run_V) now_Adv)	le nouveau v‚lo court maintenant	le nouveau v‚lo court maintenant
+PredVPS (DetCN a_Det (UseN bread_N)) (UseV come_V)	un pain vient	un pain vient
+PredVPS (UsePron he_Pron) (AdvVP (UseV jump_V) (PrepNP in_Prep (UsePron she_Pron)))	il saute dans elle	il saute dans elle
+PredVPS (DetCN thePl_Det (AdjCN (PositA ready_A) (UseN horse_N))) (UseComp (CompAP (PositA good_A)))	les chevaux prˆts sont bons	les chevaux prˆts sont bons
+PredVPS (DetCN the_Det (UseN tree_N)) (AdvVP (ComplV2 kill_V2 (UsePron he_Pron)) already_Adv)	l' arbre le tue d‚j…	l' &+ arbre le tue d‚j…
+PredVPS (DetCN a_Det (UseN apple_N)) (UseComp (CompAP (PositA good_A)))	une pomme est bonne	une pomme est bonne
+PredVPS (UsePron they_Pron) (UseV play_V)	ils jouent	ils jouent
+PredVPS (DetCN the_Det (AdjCN (PositA dirty_A) (UseN water_N))) (ComplV2 find_V2 (DetCN thePl_Det (UseN baby_N)))	l' eau sale trouve les b‚b‚s	l' &+ eau sale trouve les b‚b‚s
+PredVPS (UsePron she_Pron) (UseV run_V)	elle court	elle court
+PredVPS (DetCN thePl_Det (AdjCN (PositA cold_A) (UseN beer_N))) (UseV swim_V)	les biŠres froides nagent	les biŠres froides nagent
+PredVPS (DetCN the_Det (AdjCN (PositA old_A) (UseN grammar_N))) (AdvVP (AdvVP (UseV go_V) now_Adv) (PrepNP with_Prep (UsePron she_Pron)))	la vieille grammaire va maintenant avec elle	la vieille grammaire va maintenant avec elle
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA cold_A)))	ils sont froids	ils sont froids
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV live_V) already_Adv) (PrepNP with_Prep (UsePron she_Pron)))	elle vit d‚j… avec elle	elle vit d‚j… avec elle
+PredVPS (UsePron she_Pron) (AdvVP (UseV sleep_V) (PrepNP in_Prep (UsePron they_Pron)))	elle dort dans eux	elle dort dans eux
+PredVPS (DetCN a_Det (AdjCN (PositA black_A) (UseN friend_N))) (ComplV2 understand_V2 (UsePron they_Pron))	un ami noir les comprend	un ami noir les comprend
+PredVPS (UsePron he_Pron) (ComplV2 understand_V2 (UsePron she_Pron))	il la comprend	il la comprend
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA ready_A)))	il est prˆt	il est prˆt
+PredVPS (DetCN thePl_Det (UseN milk_N)) (UseV play_V)	les laits jouent	les laits jouent
+PredVPS (DetCN aPl_Det (AdjCN (PositA white_A) (UseN friend_N))) (ComplV2 wait_V2 (UsePron she_Pron))	des amis blancs l' attendent	des amis blancs l' &+ attendent
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 break_V2 (UsePron she_Pron)) (PrepNP on_Prep (UsePron he_Pron)))	ils la cassent sur lui	ils la cassent sur lui
+PredVPS (DetCN thePl_Det (UseN cow_N)) (UseV go_V)	les vaches vont	les vaches vont
+PredVPS (DetCN thePl_Det (UseN water_N)) (UseV run_V)	les eaux courent	les eaux courent
+PredVPS (DetCN thePl_Det (AdjCN (PositA young_A) (UseN river_N))) (ComplV2 teach_V2 (DetCN thePl_Det (UseN baby_N)))	les jeunes riviŠres enseignent les b‚b‚s	les jeunes riviŠres enseignent les b‚b‚s
+PredVPS (DetCN the_Det (UseN girl_N)) (AdvVP (UseV run_V) now_Adv)	la fille court maintenant	la fille court maintenant
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 wait_V2 (UsePron she_Pron)) already_Adv)	elle l' attend d‚j…	elle l' &+ attend d‚j…
+PredVPS (DetCN aPl_Det (UseN house_N)) (UseV walk_V)	des maisons marchent	des maisons marchent
+PredVPS (DetCN the_Det (UseN milk_N)) (UseV play_V)	le lait joue	le lait joue
+PredVPS (UsePron she_Pron) (UseV travel_V)	elle voyage	elle voyage
+PredVPS (DetCN the_Det (UseN sea_N)) (UseComp (CompAP (PositA young_A)))	la mer est jeune	la mer est jeune
+PredVPS (UsePron he_Pron) (UseV sleep_V)	il dort	il dort
+PredVPS (DetCN aPl_Det (UseN city_N)) (UseV come_V)	des villes viennent	des villes viennent
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA white_A)))	ils sont blancs	ils sont blancs
+PredVPS (DetCN aPl_Det (AdjCN (PositA clean_A) (UseN book_N))) (ComplV2 love_V2 (DetCN thePl_Det (UseN language_N)))	des livres propres aiment les langues	des livres propres aiment les langues
+PredVPS (DetCN thePl_Det (UseN animal_N)) (UseV swim_V)	les animaux nagent	les animaux nagent
+PredVPS (DetCN aPl_Det (AdjCN (PositA small_A) (UseN baby_N))) (ComplV2 read_V2 (UsePron they_Pron))	des petits b‚b‚s les lisent	des petits b‚b‚s les lisent
+PredVPS (DetCN thePl_Det (AdjCN (PositA heavy_A) (UseN wine_N))) (AdvVP (UseV play_V) now_Adv)	les vins lourds jouent maintenant	les vins lourds jouent maintenant
+PredVPS (DetCN thePl_Det (UseN baby_N)) (AdvVP (AdvVP (UseV jump_V) already_Adv) now_Adv)	les b‚b‚s sautent d‚j… maintenant	les b‚b‚s sautent d‚j… maintenant
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA yellow_A)))	il est jaune	il est jaune
+PredVPS (UsePron he_Pron) (UseV travel_V)	il voyage	il voyage
+PredVPS (DetCN a_Det (AdjCN (PositA old_A) (UseN book_N))) (ComplV2 see_V2 (DetCN a_Det (UseN boat_N)))	un vieux livre voit un bateau	un vieux livre voit un bateau
+PredVPS (UsePron they_Pron) (AdvVP (UseV sleep_V) already_Adv)	ils dorment d‚j…	ils dorment d‚j…
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA big_A)))	ils sont grands	ils sont grands
+PredVPS (DetCN aPl_Det (UseN tree_N)) (ComplV2 buy_V2 (DetCN aPl_Det (UseN dog_N)))	des arbres achŠtent des chiens	des arbres achŠtent des chiens
+PredVPS (DetCN thePl_Det (UseN star_N)) (AdvVP (UseV travel_V) already_Adv)	les ‚toiles voyagent d‚j…	les ‚toiles voyagent d‚j…
+PredVPS (DetCN the_Det (UseN house_N)) (UseV swim_V)	la maison nage	la maison nage
+PredVPS (DetCN a_Det (AdjCN (PositA clean_A) (UseN flower_N))) (UseComp (CompAP (PositA heavy_A)))	une fleur propre est lourde	une fleur propre est lourde
+PredVPS (DetCN the_Det (AdjCN (PositA bad_A) (UseN star_N))) (AdvVP (ComplV2 understand_V2 (UsePron they_Pron)) (PrepNP in_Prep (UsePron they_Pron)))	la mauvaise ‚toile les comprend dans eux	la mauvaise ‚toile les comprend dans eux
+PredVPS (UsePron they_Pron) (UseV come_V)	ils viennent	ils viennent
+PredVPS (DetCN aPl_Det (AdjCN (PositA clever_A) (UseN dog_N))) (UseV play_V)	des chiens intelligents jouent	des chiens sages jouent
+PredVPS (DetCN a_Det (AdjCN (PositA warm_A) (UseN bike_N))) (ComplV2 understand_V2 (UsePron they_Pron))	un v‚lo chaud les comprend	un v‚lo chaud les comprend
+PredVPS (DetCN the_Det (UseN tree_N)) (ComplV2 find_V2 (DetCN the_Det (UseN bike_N)))	l' arbre trouve le v‚lo	l' &+ arbre trouve le v‚lo
+PredVPS (UsePron they_Pron) (UseV live_V)	ils vivent	ils vivent
+PredVPS (DetCN aPl_Det (UseN flower_N)) (UseV travel_V)	des fleurs voyagent	des fleurs voyagent
+PredVPS (DetCN the_Det (UseN fish_N)) (AdvVP (AdvVP (UseV come_V) now_Adv) already_Adv)	le poisson vient maintenant d‚j…	le poisson vient maintenant d‚j…
+PredVPS (UsePron they_Pron) (AdvVP (UseV sleep_V) already_Adv)	ils dorment d‚j…	ils dorment d‚j…
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA new_A)))	il est nouveau	il est nouveau
+PredVPS (UsePron he_Pron) (ComplV2 eat_V2 (DetCN a_Det (UseN star_N)))	il mange une ‚toile	il mange une ‚toile
+PredVPS (UsePron they_Pron) (AdvVP (UseV travel_V) already_Adv)	ils voyagent d‚j…	ils voyagent d‚j…
+PredVPS (DetCN thePl_Det (AdjCN (PositA heavy_A) (UseN animal_N))) (AdvVP (AdvVP (UseV sleep_V) now_Adv) already_Adv)	les animaux lourds dorment maintenant d‚j…	les animaux lourds dorment maintenant d‚j…
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 wait_V2 (UsePron she_Pron)) now_Adv)	ils l' attendent maintenant	ils l' &+ attendent maintenant
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 see_V2 (UsePron they_Pron)) already_Adv)	elle les voit d‚j…	elle les voit d‚j…
+PredVPS (UsePron they_Pron) (AdvVP (UseV play_V) now_Adv)	ils jouent maintenant	ils jouent maintenant
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA small_A)))	il est petit	il est petit
+PredVPS (UsePron she_Pron) (UseV live_V)	elle vit	elle vit
+PredVPS (UsePron she_Pron) (ComplV2 understand_V2 (UsePron she_Pron))	elle la comprend	elle la comprend
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA cold_A)))	elle est froide	elle est froide
+PredVPS (DetCN aPl_Det (UseN woman_N)) (AdvVP (UseV run_V) now_Adv)	des femmes courent maintenant	des femmes courent maintenant
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA good_A)))	ils sont bons	ils sont bons
+PredVPS (DetCN the_Det (AdjCN (PositA small_A) (UseN language_N))) (AdvVP (ComplV2 teach_V2 (UsePron he_Pron)) already_Adv)	la petite langue l' enseigne d‚j…	la petite langue l' &+ enseigne d‚j…
+PredVPS (DetCN a_Det (UseN milk_N)) (UseV come_V)	un lait vient	un lait vient
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA small_A)))	ils sont petits	ils sont petits
+PredVPS (UsePron he_Pron) (ComplV2 understand_V2 (DetCN a_Det (UseN computer_N)))	il comprend un ordinateur	il comprend un ordinateur
+PredVPS (UsePron he_Pron) (ComplV2 read_V2 (DetCN the_Det (UseN bird_N)))	il lit l' oiseau	il lit l' &+ oiseau
+PredVPS (UsePron he_Pron) (UseV swim_V)	il nage	il nage
+PredVPS (DetCN the_Det (UseN river_N)) (UseComp (CompAP (PositA clean_A)))	la riviŠre est propre	la riviŠre est propre
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA blue_A)))	il est bleu	il est bleu
+PredVPS (DetCN the_Det (AdjCN (PositA bad_A) (UseN cloud_N))) (AdvVP (ComplV2 love_V2 (UsePron they_Pron)) already_Adv)	le mauvais nuage les aime d‚j…	le mauvais nuage les aime d‚j…
+PredVPS (DetCN aPl_Det (AdjCN (PositA hot_A) (UseN cat_N))) (UseComp (CompAP (PositA big_A)))	des chats chauds sont grands	des chats chauds sont grands
+PredVPS (UsePron he_Pron) (UseV sleep_V)	il dort	il dort
+PredVPS (DetCN a_Det (AdjCN (PositA ready_A) (UseN ship_N))) (AdvVP (AdvVP (UseV live_V) now_Adv) now_Adv)	un navire prˆt vit maintenant maintenant	un bateau prˆt vit maintenant maintenant
+PredVPS (DetCN aPl_Det (UseN sea_N)) (UseComp (CompAP (PositA yellow_A)))	des mers sont jaunes	des mers sont jaunes
+PredVPS (DetCN aPl_Det (AdjCN (PositA bad_A) (UseN star_N))) (UseV go_V)	des mauvaises ‚toiles vont	des mauvaises ‚toiles vont
+PredVPS (UsePron they_Pron) (AdvVP (UseV jump_V) (PrepNP in_Prep (UsePron she_Pron)))	ils sautent dans elle	ils sautent dans elle
+PredVPS (DetCN a_Det (AdjCN (PositA bad_A) (UseN dog_N))) (AdvVP (UseV swim_V) now_Adv)	un mauvais chien nage maintenant	un mauvais chien nage maintenant
+PredVPS (DetCN the_Det (AdjCN (PositA heavy_A) (UseN ship_N))) (AdvVP (AdvVP (UseV run_V) now_Adv) (PrepNP with_Prep (UsePron she_Pron)))	le navire lourd court maintenant avec elle	le bateau lourd court maintenant avec elle
+PredVPS (DetCN thePl_Det (AdjCN (PositA white_A) (UseN animal_N))) (UseV walk_V)	les animaux blancs marchent	les animaux blancs marchent
+PredVPS (UsePron they_Pron) (AdvVP (UseV walk_V) (PrepNP on_Prep (UsePron he_Pron)))	ils marchent sur lui	ils marchent sur lui
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA heavy_A)))	elle est lourde	elle est lourde
+PredVPS (DetCN a_Det (UseN cat_N)) (UseComp (CompAP (PositA red_A)))	un chat est rouge	un chat est rouge
+PredVPS (UsePron he_Pron) (UseV come_V)	il vient	il vient
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 find_V2 (UsePron they_Pron)) already_Adv)	il les trouve d‚j…	il les trouve d‚j…
+PredVPS (DetCN the_Det (AdjCN (PositA small_A) (UseN girl_N))) (AdvVP (UseV swim_V) already_Adv)	la petite fille nage d‚j…	la petite fille nage d‚j…
+PredVPS (DetCN the_Det (AdjCN (PositA white_A) (UseN fish_N))) (ComplV2 drink_V2 (UsePron he_Pron))	le poisson blanc le boit	le poisson blanc le boit
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 find_V2 (UsePron they_Pron)) already_Adv)	elle les trouve d‚j…	elle les trouve d‚j…
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN apple_N))) (ComplV2 see_V2 (DetCN a_Det (UseN water_N)))	les pommes vertes voient une eau	les pommes vertes voient une eau
+PredVPS (DetCN the_Det (UseN boy_N)) (UseV live_V)	le gar‡on vit	le gar‡on vit
+PredVPS (DetCN a_Det (AdjCN (PositA good_A) (UseN child_N))) (AdvVP (ComplV2 buy_V2 (UsePron she_Pron)) (PrepNP on_Prep (UsePron she_Pron)))	un bon enfant l' achŠte sur elle	un bon enfant l' &+ achŠte sur elle
+PredVPS (UsePron he_Pron) (ComplV2 see_V2 (UsePron she_Pron))	il la voit	il la voit
+PredVPS (UsePron she_Pron) (ComplV2 eat_V2 (UsePron he_Pron))	elle le mange	elle le mange
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN woman_N))) (UseV swim_V)	les femmes vertes nagent	les femmes vertes nagent
+PredVPS (DetCN aPl_Det (UseN train_N)) (AdvVP (ComplV2 read_V2 (UsePron they_Pron)) (PrepNP in_Prep (UsePron she_Pron)))	des trains les lisent dans elle	des trains les lisent dans elle
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA yellow_A)))	ils sont jaunes	ils sont jaunes
+PredVPS (DetCN thePl_Det (AdjCN (PositA clever_A) (UseN cow_N))) (UseComp (CompAP (PositA cold_A)))	les vaches intelligentes sont froides	les vaches sages sont froides
+PredVPS (DetCN the_Det (AdjCN (PositA cold_A) (UseN ship_N))) (AdvVP (ComplV2 break_V2 (UsePron she_Pron)) (PrepNP on_Prep (UsePron he_Pron)))	le navire froid la casse sur lui	le bateau froid la casse sur lui
+PredVPS (DetCN thePl_Det (UseN language_N)) (AdvVP (ComplV2 kill_V2 (UsePron they_Pron)) already_Adv)	les langues les tuent d‚j…	les langues les tuent d‚j…
+PredVPS (UsePron they_Pron) (AdvVP (UseV go_V) now_Adv)	ils vont maintenant	ils vont maintenant
+PredVPS (UsePron he_Pron) (ComplV2 eat_V2 (UsePron they_Pron))	il les mange	il les mange
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN man_N))) (UseComp (CompAP (PositA black_A)))	les hommes verts sont noirs	les hommes verts sont noirs
+PredVPS (DetCN the_Det (UseN book_N)) (ComplV2 eat_V2 (DetCN a_Det (UseN milk_N)))	le livre mange un lait	le livre mange un lait
+PredVPS (DetCN thePl_Det (UseN girl_N)) (AdvVP (UseV come_V) (PrepNP in_Prep (UsePron she_Pron)))	les filles viennent dans elle	les filles viennent dans elle
+PredVPS (UsePron they_Pron) (AdvVP (UseV live_V) now_Adv)	ils vivent maintenant	ils vivent maintenant
+PredVPS (UsePron she_Pron) (UseV run_V)	elle court	elle court
+PredVPS (DetCN the_Det (UseN bird_N)) (UseComp (CompAP (PositA green_A)))	l' oiseau est vert	l' &+ oiseau est vert
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA cold_A)))	elle est froide	elle est froide
+PredVPS (DetCN thePl_Det (AdjCN (PositA black_A) (UseN girl_N))) (UseComp (CompAP (PositA bad_A)))	les filles noires sont mauvaises	les filles noires sont mauvaises
+PredVPS (DetCN aPl_Det (UseN computer_N)) (ComplV2 kill_V2 (UsePron they_Pron))	des ordinateurs les tuent	des ordinateurs les tuent
+PredVPS (UsePron they_Pron) (ComplV2 teach_V2 (DetCN thePl_Det (UseN computer_N)))	ils enseignent les ordinateurs	ils enseignent les ordinateurs
+PredVPS (UsePron she_Pron) (UseV play_V)	elle joue	elle joue
+PredVPS (DetCN aPl_Det (AdjCN (PositA clever_A) (UseN star_N))) (UseComp (CompAP (PositA young_A)))	des ‚toiles intelligentes sont jeunes	des ‚toiles sages sont jeunes
+PredVPS (DetCN the_Det (AdjCN (PositA warm_A) (UseN house_N))) (UseComp (CompAP (PositA warm_A)))	la maison chaude est chaude	la maison chaude est chaude
+PredVPS (DetCN thePl_Det (AdjCN (PositA young_A) (UseN car_N))) (UseV go_V)	les jeunes voitures vont	les jeunes voitures vont
+PredVPS (UsePron they_Pron) (ComplV2 love_V2 (DetCN thePl_Det (UseN cat_N)))	ils aiment les chats	ils aiment les chats
+PredVPS (UsePron they_Pron) (ComplV2 buy_V2 (DetCN the_Det (UseN horse_N)))	ils achŠtent le cheval	ils achŠtent le cheval
+PredVPS (DetCN the_Det (UseN ship_N)) (UseV come_V)	le navire vient	le bateau vient
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA green_A)))	elle est verte	elle est verte
+PredVPS (UsePron he_Pron) (ComplV2 buy_V2 (DetCN a_Det (UseN star_N)))	il achŠte une ‚toile	il achŠte une ‚toile
+PredVPS (UsePron she_Pron) (UseV swim_V)	elle nage	elle nage
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA blue_A)))	il est bleu	il est bleu
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA cold_A)))	ils sont froids	ils sont froids
+PredVPS (UsePron he_Pron) (AdvVP (UseV travel_V) (PrepNP in_Prep (UsePron they_Pron)))	il voyage dans eux	il voyage dans eux
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA bad_A)))	ils sont mauvais	ils sont mauvais
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV walk_V) now_Adv) (PrepNP on_Prep (UsePron she_Pron)))	ils marchent maintenant sur elle	ils marchent maintenant sur elle
+PredVPS (DetCN thePl_Det (UseN music_N)) (UseComp (CompAP (PositA blue_A)))	les musiques sont bleues	les musiques sont bleues
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA new_A)))	ils sont nouveaux	ils sont nouveaux
+PredVPS (DetCN thePl_Det (AdjCN (PositA good_A) (UseN man_N))) (ComplV2 read_V2 (UsePron she_Pron))	les bons hommes la lisent	les bons hommes la lisent
+PredVPS (DetCN the_Det (UseN bike_N)) (UseV travel_V)	le v‚lo voyage	le v‚lo voyage
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV sleep_V) now_Adv) (PrepNP in_Prep (UsePron she_Pron)))	elle dort maintenant dans elle	elle dort maintenant dans elle
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV come_V) already_Adv) (PrepNP in_Prep (UsePron he_Pron)))	ils viennent d‚j… dans lui	ils viennent d‚j… dans lui
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 see_V2 (UsePron he_Pron)) (PrepNP with_Prep (UsePron they_Pron)))	elle le voit avec eux	elle le voit avec eux
+PredVPS (UsePron she_Pron) (UseV swim_V)	elle nage	elle nage
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA warm_A)))	ils sont chauds	ils sont chauds
+PredVPS (UsePron he_Pron) (ComplV2 kill_V2 (DetCN a_Det (UseN fish_N)))	il tue un poisson	il tue un poisson
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV play_V) now_Adv) (PrepNP in_Prep (UsePron they_Pron)))	ils jouent maintenant dans eux	ils jouent maintenant dans eux
+PredVPS (DetCN thePl_Det (AdjCN (PositA blue_A) (UseN wine_N))) (UseV play_V)	les vins bleus jouent	les vins bleus jouent
+PredVPS (DetCN a_Det (UseN water_N)) (UseComp (CompAP (PositA hot_A)))	une eau est chaude	une eau est chaude
+PredVPS (DetCN a_Det (AdjCN (PositA good_A) (UseN house_N))) (AdvVP (ComplV2 drink_V2 (UsePron she_Pron)) now_Adv)	une bonne maison la boit maintenant	une bonne maison la boit maintenant
+PredVPS (DetCN a_Det (AdjCN (PositA warm_A) (UseN grammar_N))) (AdvVP (AdvVP (UseV live_V) now_Adv) now_Adv)	une grammaire chaude vit maintenant maintenant	une grammaire chaude vit maintenant maintenant
+PredVPS (DetCN aPl_Det (AdjCN (PositA hot_A) (UseN fire_N))) (AdvVP (UseV swim_V) now_Adv)	des feux chauds nagent maintenant	des feux chauds nagent maintenant
+PredVPS (DetCN aPl_Det (UseN book_N)) (AdvVP (ComplV2 buy_V2 (UsePron they_Pron)) (PrepNP on_Prep (UsePron they_Pron)))	des livres les achŠtent sur eux	des livres les achŠtent sur eux
+PredVPS (UsePron she_Pron) (ComplV2 buy_V2 (DetCN aPl_Det (UseN friend_N)))	elle achŠte des amis	elle achŠte des amis
+PredVPS (DetCN the_Det (AdjCN (PositA warm_A) (UseN apple_N))) (UseV walk_V)	la pomme chaude marche	la pomme chaude marche
+PredVPS (DetCN aPl_Det (UseN apple_N)) (UseV travel_V)	des pommes voyagent	des pommes voyagent
+PredVPS (DetCN a_Det (AdjCN (PositA cold_A) (UseN milk_N))) (UseComp (CompAP (PositA cold_A)))	un lait froid est froid	un lait froid est froid
+PredVPS (DetCN thePl_Det (UseN computer_N)) (AdvVP (AdvVP (UseV play_V) already_Adv) (PrepNP with_Prep (UsePron she_Pron)))	les ordinateurs jouent d‚j… avec elle	les ordinateurs jouent d‚j… avec elle
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 see_V2 (UsePron he_Pron)) (PrepNP in_Prep (UsePron he_Pron)))	elle le voit dans lui	elle le voit dans lui
+PredVPS (DetCN thePl_Det (AdjCN (PositA warm_A) (UseN water_N))) (ComplV2 teach_V2 (DetCN aPl_Det (UseN bike_N)))	les eaux chaudes enseignent des v‚los	les eaux chaudes enseignent des v‚los
+PredVPS (DetCN the_Det (AdjCN (PositA new_A) (UseN child_N))) (AdvVP (UseV run_V) (PrepNP on_Prep (UsePron he_Pron)))	le nouveau enfant court sur lui	le nouvel enfant court sur lui
+PredVPS (DetCN thePl_Det (AdjCN (PositA black_A) (UseN baby_N))) (UseComp (CompAP (PositA ready_A)))	les b‚b‚s noirs sont prˆts	les b‚b‚s noirs sont prˆts
+PredVPS (DetCN a_Det (AdjCN (PositA clean_A) (UseN fish_N))) (AdvVP (ComplV2 find_V2 (UsePron she_Pron)) already_Adv)	un poisson propre la trouve d‚j…	un poisson propre la trouve d‚j…
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV swim_V) now_Adv) (PrepNP on_Prep (UsePron she_Pron)))	il nage maintenant sur elle	il nage maintenant sur elle
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN boat_N))) (AdvVP (UseV come_V) (PrepNP in_Prep (UsePron they_Pron)))	un bateau intelligent vient dans eux	un bateau sage vient dans eux
+PredVPS (UsePron they_Pron) (UseV swim_V)	ils nagent	ils nagent
+PredVPS (UsePron they_Pron) (UseV play_V)	ils jouent	ils jouent
+PredVPS (DetCN the_Det (UseN fish_N)) (UseComp (CompAP (PositA yellow_A)))	le poisson est jaune	le poisson est jaune
+PredVPS (DetCN thePl_Det (AdjCN (PositA heavy_A) (UseN star_N))) (UseComp (CompAP (PositA new_A)))	les ‚toiles lourdes sont nouvelles	les ‚toiles lourdes sont nouvelles
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 kill_V2 (UsePron they_Pron)) already_Adv)	elle les tue d‚j…	elle les tue d‚j…
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV walk_V) now_Adv) already_Adv)	elle marche maintenant d‚j…	elle marche maintenant d‚j…
+PredVPS (DetCN a_Det (AdjCN (PositA young_A) (UseN tree_N))) (AdvVP (AdvVP (UseV walk_V) now_Adv) already_Adv)	un jeune arbre marche maintenant d‚j…	un jeune arbre marche maintenant d‚j…
+PredVPS (DetCN aPl_Det (UseN wine_N)) (UseComp (CompAP (PositA clean_A)))	des vins sont propres	des vins sont propres
+PredVPS (DetCN a_Det (UseN train_N)) (UseV jump_V)	un train saute	un train saute
+PredVPS (DetCN a_Det (AdjCN (PositA heavy_A) (UseN baby_N))) (AdvVP (ComplV2 find_V2 (UsePron he_Pron)) (PrepNP on_Prep (UsePron they_Pron)))	un b‚b‚ lourd le trouve sur eux	un b‚b‚ lourd le trouve sur eux
+PredVPS (UsePron she_Pron) (ComplV2 love_V2 (DetCN aPl_Det (UseN woman_N)))	elle aime des femmes	elle aime des femmes
+PredVPS (DetCN aPl_Det (UseN blood_N)) (ComplV2 buy_V2 (DetCN the_Det (UseN milk_N)))	des sangs achŠtent le lait	des sangs achŠtent le lait
+PredVPS (UsePron he_Pron) (ComplV2 read_V2 (DetCN aPl_Det (UseN friend_N)))	il lit des amis	il lit des amis
+PredVPS (DetCN aPl_Det (UseN child_N)) (UseV come_V)	des enfants viennent	des enfants viennent
+PredVPS (UsePron she_Pron) (ComplV2 read_V2 (DetCN thePl_Det (UseN computer_N)))	elle lit les ordinateurs	elle lit les ordinateurs
+PredVPS (DetCN the_Det (AdjCN (PositA small_A) (UseN wine_N))) (ComplV2 find_V2 (DetCN a_Det (UseN car_N)))	le petit vin trouve une voiture	le petit vin trouve une voiture
+PredVPS (UsePron she_Pron) (ComplV2 find_V2 (UsePron they_Pron))	elle les trouve	elle les trouve
+PredVPS (DetCN aPl_Det (UseN fish_N)) (AdvVP (UseV sleep_V) already_Adv)	des poissons dorment d‚j…	des poissons dorment d‚j…
+PredVPS (DetCN aPl_Det (UseN boy_N)) (UseV run_V)	des gar‡ons courent	des gar‡ons courent
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV jump_V) now_Adv) now_Adv)	il saute maintenant maintenant	il saute maintenant maintenant
+PredVPS (UsePron he_Pron) (ComplV2 buy_V2 (UsePron she_Pron))	il l' achŠte	il l' &+ achŠte
+PredVPS (UsePron he_Pron) (UseV walk_V)	il marche	il marche
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA red_A)))	il est rouge	il est rouge
+PredVPS (DetCN a_Det (UseN water_N)) (UseV play_V)	une eau joue	une eau joue
+PredVPS (DetCN thePl_Det (AdjCN (PositA clean_A) (UseN train_N))) (AdvVP (UseV walk_V) (PrepNP with_Prep (UsePron they_Pron)))	les trains propres marchent avec eux	les trains propres marchent avec eux
+PredVPS (DetCN a_Det (AdjCN (PositA bad_A) (UseN friend_N))) (AdvVP (ComplV2 see_V2 (UsePron they_Pron)) (PrepNP with_Prep (UsePron she_Pron)))	un mauvais ami les voit avec elle	un mauvais ami les voit avec elle
+PredVPS (UsePron she_Pron) (ComplV2 see_V2 (DetCN thePl_Det (UseN bread_N)))	elle voit les pains	elle voit les pains
+PredVPS (UsePron he_Pron) (ComplV2 understand_V2 (DetCN aPl_Det (UseN girl_N)))	il comprend des filles	il comprend des filles
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA cold_A)))	ils sont froids	ils sont froids
+PredVPS (DetCN the_Det (UseN cloud_N)) (AdvVP (UseV live_V) now_Adv)	le nuage vit maintenant	le nuage vit maintenant
+PredVPS (DetCN aPl_Det (AdjCN (PositA new_A) (UseN blood_N))) (UseV come_V)	des nouveaux sangs viennent	des nouveaux sangs viennent
+PredVPS (UsePron he_Pron) (ComplV2 read_V2 (DetCN thePl_Det (UseN computer_N)))	il lit les ordinateurs	il lit les ordinateurs
+PredVPS (DetCN the_Det (AdjCN (PositA clever_A) (UseN bird_N))) (UseComp (CompAP (PositA green_A)))	l' oiseau intelligent est vert	l' &+ oiseau sage est vert
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA clever_A)))	ils sont intelligents	ils sont sages
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA warm_A)))	elle est chaude	elle est chaude
+PredVPS (UsePron he_Pron) (UseV travel_V)	il voyage	il voyage
+PredVPS (UsePron they_Pron) (UseV sleep_V)	ils dorment	ils dorment
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA warm_A)))	elle est chaude	elle est chaude
+PredVPS (DetCN a_Det (UseN baby_N)) (AdvVP (ComplV2 wait_V2 (UsePron she_Pron)) (PrepNP with_Prep (UsePron they_Pron)))	un b‚b‚ l' attend avec eux	un b‚b‚ l' &+ attend avec eux
+PredVPS (UsePron she_Pron) (UseV travel_V)	elle voyage	elle voyage
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV walk_V) now_Adv) (PrepNP with_Prep (UsePron she_Pron)))	elle marche maintenant avec elle	elle marche maintenant avec elle
+PredVPS (UsePron he_Pron) (ComplV2 teach_V2 (UsePron he_Pron))	il l' enseigne	il l' &+ enseigne
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA red_A)))	il est rouge	il est rouge
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV play_V) already_Adv) already_Adv)	ils jouent d‚j… d‚j…	ils jouent d‚j… d‚j…
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV run_V) now_Adv) already_Adv)	il court maintenant d‚j…	il court maintenant d‚j…
+PredVPS (UsePron she_Pron) (UseV swim_V)	elle nage	elle nage
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA blue_A)))	il est bleu	il est bleu
+PredVPS (DetCN aPl_Det (AdjCN (PositA red_A) (UseN man_N))) (UseComp (CompAP (PositA heavy_A)))	des hommes rouges sont lourds	des hommes rouges sont lourds
+PredVPS (DetCN thePl_Det (UseN dog_N)) (ComplV2 eat_V2 (DetCN thePl_Det (UseN house_N)))	les chiens mangent les maisons	les chiens mangent les maisons
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA small_A)))	elle est petite	elle est petite
+PredVPS (DetCN thePl_Det (UseN man_N)) (AdvVP (UseV walk_V) (PrepNP with_Prep (UsePron he_Pron)))	les hommes marchent avec lui	les hommes marchent avec lui
+PredVPS (DetCN aPl_Det (AdjCN (PositA young_A) (UseN language_N))) (ComplV2 kill_V2 (UsePron he_Pron))	des jeunes langues le tuent	des jeunes langues le tuent
+PredVPS (DetCN the_Det (AdjCN (PositA hot_A) (UseN river_N))) (AdvVP (UseV jump_V) already_Adv)	la riviŠre chaude saute d‚j…	la riviŠre chaude saute d‚j…
+PredVPS (UsePron they_Pron) (AdvVP (UseV walk_V) (PrepNP on_Prep (UsePron he_Pron)))	ils marchent sur lui	ils marchent sur lui
+PredVPS (DetCN thePl_Det (UseN boat_N)) (UseComp (CompAP (PositA clean_A)))	les bateaux sont propres	les bateaux sont propres
+PredVPS (DetCN the_Det (UseN language_N)) (AdvVP (UseV travel_V) now_Adv)	la langue voyage maintenant	la langue voyage maintenant
+PredVPS (UsePron she_Pron) (UseV live_V)	elle vit	elle vit
+PredVPS (DetCN a_Det (AdjCN (PositA white_A) (UseN bird_N))) (AdvVP (AdvVP (UseV walk_V) already_Adv) already_Adv)	un oiseau blanc marche d‚j… d‚j…	un oiseau blanc marche d‚j… d‚j…
+PredVPS (DetCN a_Det (UseN blood_N)) (UseComp (CompAP (PositA good_A)))	un sang est bon	un sang est bon
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA cold_A)))	ils sont froids	ils sont froids
+PredVPS (DetCN the_Det (AdjCN (PositA new_A) (UseN bird_N))) (UseComp (CompAP (PositA red_A)))	le nouveau oiseau est rouge	le nouvel oiseau est rouge
+PredVPS (UsePron she_Pron) (UseV run_V)	elle court	elle court
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 love_V2 (UsePron they_Pron)) now_Adv)	ils les aiment maintenant	ils les aiment maintenant
+PredVPS (DetCN aPl_Det (UseN fire_N)) (UseComp (CompAP (PositA red_A)))	des feux sont rouges	des feux sont rouges
+PredVPS (UsePron they_Pron) (UseV sleep_V)	ils dorment	ils dorment
+PredVPS (UsePron they_Pron) (UseV come_V)	ils viennent	ils viennent
+PredVPS (DetCN aPl_Det (AdjCN (PositA big_A) (UseN boat_N))) (UseV come_V)	des grands bateaux viennent	des grands bateaux viennent
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN train_N))) (UseV run_V)	un train intelligent court	un train sage court
+PredVPS (DetCN a_Det (UseN baby_N)) (UseV live_V)	un b‚b‚ vit	un b‚b‚ vit
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA good_A)))	ils sont bons	ils sont bons
+PredVPS (UsePron she_Pron) (AdvVP (UseV run_V) now_Adv)	elle court maintenant	elle court maintenant
+PredVPS (UsePron they_Pron) (UseV jump_V)	ils sautent	ils sautent
+PredVPS (UsePron she_Pron) (UseV sleep_V)	elle dort	elle dort
+PredVPS (DetCN the_Det (UseN bird_N)) (AdvVP (ComplV2 drink_V2 (UsePron he_Pron)) now_Adv)	l' oiseau le boit maintenant	l' &+ oiseau le boit maintenant
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA red_A)))	elle est rouge	elle est rouge
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV play_V) now_Adv) now_Adv)	il joue maintenant maintenant	il joue maintenant maintenant
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN train_N))) (UseV come_V)	un train intelligent vient	un train sage vient
+PredVPS (UsePron they_Pron) (UseV sleep_V)	ils dorment	ils dorment
+PredVPS (UsePron she_Pron) (ComplV2 find_V2 (UsePron they_Pron))	elle les trouve	elle les trouve
+PredVPS (UsePron he_Pron) (UseV swim_V)	il nage	il nage
+PredVPS (DetCN thePl_Det (UseN music_N)) (UseComp (CompAP (PositA big_A)))	les musiques sont grandes	les musiques sont grandes
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA heavy_A)))	il est lourd	il est lourd
+PredVPS (DetCN thePl_Det (UseN ship_N)) (ComplV2 love_V2 (UsePron she_Pron))	les navires l' aiment	les bateaux l' &+ aiment
+PredVPS (UsePron he_Pron) (UseV walk_V)	il marche	il marche
+PredVPS (DetCN the_Det (UseN child_N)) (ComplV2 break_V2 (DetCN aPl_Det (UseN milk_N)))	l' enfant casse des laits	l' &+ enfant casse des laits
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA small_A)))	il est petit	il est petit
+PredVPS (DetCN thePl_Det (AdjCN (PositA young_A) (UseN city_N))) (UseV live_V)	les jeunes villes vivent	les jeunes villes vivent
+PredVPS (UsePron they_Pron) (UseV play_V)	ils jouent	ils jouent
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 read_V2 (UsePron she_Pron)) now_Adv)	ils la lisent maintenant	ils la lisent maintenant
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (DetCN a_Det (UseN grammar_N)))	ils attendent une grammaire	ils attendent une grammaire
+PredVPS (UsePron they_Pron) (AdvVP (UseV travel_V) now_Adv)	ils voyagent maintenant	ils voyagent maintenant
+PredVPS (DetCN aPl_Det (AdjCN (PositA good_A) (UseN computer_N))) (AdvVP (ComplV2 teach_V2 (UsePron he_Pron)) already_Adv)	des bons ordinateurs l' enseignent d‚j…	des bons ordinateurs l' &+ enseignent d‚j…
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 teach_V2 (UsePron she_Pron)) already_Adv)	elle l' enseigne d‚j…	elle l' &+ enseigne d‚j…
+PredVPS (DetCN the_Det (AdjCN (PositA warm_A) (UseN house_N))) (UseV live_V)	la maison chaude vit	la maison chaude vit
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 understand_V2 (UsePron they_Pron)) now_Adv)	il les comprend maintenant	il les comprend maintenant
+PredVPS (DetCN aPl_Det (AdjCN (PositA green_A) (UseN wine_N))) (AdvVP (ComplV2 buy_V2 (UsePron he_Pron)) now_Adv)	des vins verts l' achŠtent maintenant	des vins verts l' &+ achŠtent maintenant
+PredVPS (UsePron she_Pron) (UseV run_V)	elle court	elle court
+PredVPS (UsePron she_Pron) (UseV walk_V)	elle marche	elle marche
+PredVPS (DetCN thePl_Det (AdjCN (PositA white_A) (UseN bike_N))) (ComplV2 teach_V2 (DetCN the_Det (UseN baby_N)))	les v‚los blancs enseignent le b‚b‚	les v‚los blancs enseignent le b‚b‚
+PredVPS (DetCN a_Det (AdjCN (PositA heavy_A) (UseN computer_N))) (ComplV2 drink_V2 (DetCN thePl_Det (UseN milk_N)))	un ordinateur lourd boit les laits	un ordinateur lourd boit les laits
+PredVPS (DetCN thePl_Det (UseN sea_N)) (ComplV2 buy_V2 (UsePron they_Pron))	les mers les achŠtent	les mers les achŠtent
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 eat_V2 (UsePron he_Pron)) already_Adv)	ils le mangent d‚j…	ils le mangent d‚j…
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA ready_A)))	il est prˆt	il est prˆt
+PredVPS (UsePron they_Pron) (ComplV2 drink_V2 (DetCN the_Det (UseN grammar_N)))	ils boivent la grammaire	ils boivent la grammaire
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV come_V) now_Adv) (PrepNP in_Prep (UsePron she_Pron)))	ils viennent maintenant dans elle	ils viennent maintenant dans elle
+PredVPS (DetCN aPl_Det (UseN cat_N)) (UseComp (CompAP (PositA small_A)))	des chats sont petits	des chats sont petits
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN animal_N))) (AdvVP (AdvVP (UseV go_V) already_Adv) already_Adv)	les animaux verts vont d‚j… d‚j…	les animaux verts vont d‚j… d‚j…
+PredVPS (DetCN thePl_Det (UseN bike_N)) (AdvVP (AdvVP (UseV live_V) already_Adv) (PrepNP on_Prep (UsePron he_Pron)))	les v‚los vivent d‚j… sur lui	les v‚los vivent d‚j… sur lui
+PredVPS (DetCN the_Det (AdjCN (PositA clever_A) (UseN woman_N))) (UseV play_V)	la femme intelligente joue	la femme sage joue
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 kill_V2 (UsePron they_Pron)) already_Adv)	il les tue d‚j…	il les tue d‚j…
+PredVPS (UsePron he_Pron) (UseV walk_V)	il marche	il marche
+PredVPS (UsePron they_Pron) (UseV play_V)	ils jouent	ils jouent
+PredVPS (DetCN aPl_Det (AdjCN (PositA old_A) (UseN train_N))) (UseV come_V)	des vieux trains viennent	des vieux trains viennent
+PredVPS (DetCN thePl_Det (UseN horse_N)) (UseV swim_V)	les chevaux nagent	les chevaux nagent
+PredVPS (UsePron she_Pron) (ComplV2 see_V2 (UsePron she_Pron))	elle la voit	elle la voit
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (UsePron they_Pron))	ils les attendent	ils les attendent
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA small_A)))	il est petit	il est petit
+PredVPS (DetCN thePl_Det (AdjCN (PositA white_A) (UseN friend_N))) (UseComp (CompAP (PositA clever_A)))	les amis blancs sont intelligents	les amis blancs sont sages
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA new_A)))	il est nouveau	il est nouveau
+PredVPS (DetCN aPl_Det (AdjCN (PositA white_A) (UseN train_N))) (ComplV2 buy_V2 (DetCN aPl_Det (UseN train_N)))	des trains blancs achŠtent des trains	des trains blancs achŠtent des trains
+PredVPS (UsePron she_Pron) (UseV live_V)	elle vit	elle vit
+PredVPS (UsePron she_Pron) (ComplV2 teach_V2 (UsePron she_Pron))	elle l' enseigne	elle l' &+ enseigne
+PredVPS (DetCN aPl_Det (UseN star_N)) (UseV walk_V)	des ‚toiles marchent	des ‚toiles marchent
+PredVPS (UsePron he_Pron) (ComplV2 drink_V2 (DetCN a_Det (UseN train_N)))	il boit un train	il boit un train
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA big_A)))	ils sont grands	ils sont grands
+PredVPS (UsePron she_Pron) (ComplV2 read_V2 (UsePron she_Pron))	elle la lit	elle la lit
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA good_A)))	il est bon	il est bon
+PredVPS (DetCN a_Det (UseN dog_N)) (UseComp (CompAP (PositA cold_A)))	un chien est froid	un chien est froid
+PredVPS (UsePron they_Pron) (UseV swim_V)	ils nagent	ils nagent
+PredVPS (DetCN thePl_Det (AdjCN (PositA small_A) (UseN horse_N))) (ComplV2 teach_V2 (DetCN aPl_Det (UseN wine_N)))	les petits chevaux enseignent des vins	les petits chevaux enseignent des vins
+PredVPS (DetCN the_Det (AdjCN (PositA clean_A) (UseN train_N))) (UseV sleep_V)	le train propre dort	le train propre dort
+PredVPS (DetCN a_Det (UseN river_N)) (AdvVP (AdvVP (UseV come_V) already_Adv) now_Adv)	une riviŠre vient d‚j… maintenant	une riviŠre vient d‚j… maintenant
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA white_A)))	ils sont blancs	ils sont blancs
+PredVPS (UsePron she_Pron) (ComplV2 understand_V2 (DetCN the_Det (UseN flower_N)))	elle comprend la fleur	elle comprend la fleur
+PredVPS (DetCN aPl_Det (AdjCN (PositA new_A) (UseN blood_N))) (UseV jump_V)	des nouveaux sangs sautent	des nouveaux sangs sautent
+PredVPS (UsePron she_Pron) (UseV travel_V)	elle voyage	elle voyage
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA ready_A)))	il est prˆt	il est prˆt
+PredVPS (DetCN a_Det (UseN flower_N)) (UseComp (CompAP (PositA warm_A)))	une fleur est chaude	une fleur est chaude
+PredVPS (DetCN thePl_Det (AdjCN (PositA heavy_A) (UseN man_N))) (AdvVP (UseV go_V) (PrepNP in_Prep (UsePron they_Pron)))	les hommes lourds vont dans eux	les hommes lourds vont dans eux
+PredVPS (DetCN thePl_Det (UseN beer_N)) (AdvVP (UseV go_V) now_Adv)	les biŠres vont maintenant	les biŠres vont maintenant
+PredVPS (DetCN aPl_Det (UseN fire_N)) (UseV sleep_V)	des feux dorment	des feux dorment
+PredVPS (DetCN thePl_Det (UseN cow_N)) (ComplV2 understand_V2 (UsePron he_Pron))	les vaches le comprennent	les vaches le comprennent
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA blue_A)))	ils sont bleus	ils sont bleus
+PredVPS (DetCN aPl_Det (UseN animal_N)) (UseComp (CompAP (PositA clean_A)))	des animaux sont propres	des animaux sont propres
+PredVPS (DetCN the_Det (UseN milk_N)) (UseV play_V)	le lait joue	le lait joue
+PredVPS (DetCN a_Det (AdjCN (PositA big_A) (UseN bird_N))) (UseV jump_V)	un grand oiseau saute	un grand oiseau saute
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA old_A)))	ils sont vieux	ils sont vieux
+PredVPS (UsePron they_Pron) (UseV jump_V)	ils sautent	ils sautent
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA clever_A)))	il est intelligent	il est sage
+PredVPS (UsePron they_Pron) (ComplV2 drink_V2 (DetCN thePl_Det (UseN woman_N)))	ils boivent les femmes	ils boivent les femmes
+PredVPS (DetCN aPl_Det (UseN flower_N)) (AdvVP (ComplV2 eat_V2 (UsePron they_Pron)) already_Adv)	des fleurs les mangent d‚j…	des fleurs les mangent d‚j…
+PredVPS (DetCN the_Det (AdjCN (PositA cold_A) (UseN star_N))) (AdvVP (ComplV2 break_V2 (UsePron they_Pron)) (PrepNP in_Prep (UsePron she_Pron)))	l' ‚toile froide les casse dans elle	l' &+ ‚toile froide les casse dans elle
+PredVPS (UsePron they_Pron) (UseV travel_V)	ils voyagent	ils voyagent
+PredVPS (DetCN the_Det (UseN train_N)) (AdvVP (UseV travel_V) now_Adv)	le train voyage maintenant	le train voyage maintenant
+PredVPS (DetCN a_Det (AdjCN (PositA small_A) (UseN milk_N))) (AdvVP (UseV live_V) already_Adv)	un petit lait vit d‚j…	un petit lait vit d‚j…
+PredVPS (DetCN a_Det (UseN bird_N)) (AdvVP (ComplV2 see_V2 (UsePron he_Pron)) now_Adv)	un oiseau le voit maintenant	un oiseau le voit maintenant
+PredVPS (UsePron they_Pron) (UseV jump_V)	ils sautent	ils sautent
+PredVPS (DetCN thePl_Det (AdjCN (PositA big_A) (UseN computer_N))) (UseComp (CompAP (PositA dirty_A)))	les grands ordinateurs sont sales	les grands ordinateurs sont sales
+PredVPS (UsePron he_Pron) (ComplV2 wait_V2 (UsePron she_Pron))	il l' attend	il l' &+ attend
+PredVPS (DetCN a_Det (AdjCN (PositA yellow_A) (UseN boy_N))) (AdvVP (AdvVP (UseV sleep_V) now_Adv) already_Adv)	un gar‡on jaune dort maintenant d‚j…	un gar‡on jaune dort maintenant d‚j…
+PredVPS (UsePron he_Pron) (UseV go_V)	il va	il va
+PredVPS (DetCN a_Det (UseN music_N)) (ComplV2 teach_V2 (DetCN a_Det (UseN cloud_N)))	une musique enseigne un nuage	une musique enseigne un nuage
+PredVPS (DetCN aPl_Det (AdjCN (PositA hot_A) (UseN car_N))) (UseComp (CompAP (PositA new_A)))	des voitures chaudes sont nouvelles	des voitures chaudes sont nouvelles
+PredVPS (UsePron she_Pron) (UseV swim_V)	elle nage	elle nage
+PredVPS (DetCN aPl_Det (UseN bike_N)) (AdvVP (AdvVP (UseV jump_V) already_Adv) already_Adv)	des v‚los sautent d‚j… d‚j…	des v‚los sautent d‚j… d‚j…
+PredVPS (DetCN aPl_Det (AdjCN (PositA red_A) (UseN water_N))) (UseComp (CompAP (PositA white_A)))	des eaux rouges sont blanches	des eaux rouges sont blanches
+PredVPS (DetCN aPl_Det (UseN bike_N)) (ComplV2 kill_V2 (DetCN the_Det (UseN house_N)))	des v‚los tuent la maison	des v‚los tuent la maison
+PredVPS (UsePron she_Pron) (ComplV2 kill_V2 (DetCN aPl_Det (UseN cloud_N)))	elle tue des nuages	elle tue des nuages
+PredVPS (DetCN thePl_Det (UseN child_N)) (AdvVP (ComplV2 teach_V2 (UsePron he_Pron)) now_Adv)	les enfants l' enseignent maintenant	les enfants l' &+ enseignent maintenant
+PredVPS (UsePron she_Pron) (ComplV2 buy_V2 (UsePron they_Pron))	elle les achŠte	elle les achŠte
+PredVPS (DetCN the_Det (AdjCN (PositA blue_A) (UseN book_N))) (AdvVP (AdvVP (UseV run_V) now_Adv) now_Adv)	le livre bleu court maintenant maintenant	le livre bleu court maintenant maintenant
+PredVPS (DetCN aPl_Det (UseN boy_N)) (AdvVP (UseV walk_V) already_Adv)	des gar‡ons marchent d‚j…	des gar‡ons marchent d‚j…
+PredVPS (DetCN thePl_Det (AdjCN (PositA clever_A) (UseN grammar_N))) (AdvVP (AdvVP (UseV jump_V) now_Adv) already_Adv)	les grammaires intelligentes sautent maintenant d‚j…	les grammaires sages sautent maintenant d‚j…
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA heavy_A)))	elle est lourde	elle est lourde
+PredVPS (DetCN aPl_Det (AdjCN (PositA clean_A) (UseN beer_N))) (ComplV2 read_V2 (DetCN a_Det (UseN blood_N)))	des biŠres propres lisent un sang	des biŠres propres lisent un sang
+PredVPS (DetCN the_Det (UseN bread_N)) (ComplV2 buy_V2 (DetCN aPl_Det (UseN car_N)))	le pain achŠte des voitures	le pain achŠte des voitures
+PredVPS (UsePron she_Pron) (AdvVP (UseV swim_V) now_Adv)	elle nage maintenant	elle nage maintenant
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 wait_V2 (UsePron he_Pron)) now_Adv)	il l' attend maintenant	il l' &+ attend maintenant
+PredVPS (DetCN the_Det (AdjCN (PositA green_A) (UseN wine_N))) (UseComp (CompAP (PositA old_A)))	le vin vert est vieux	le vin vert est vieux
+PredVPS (DetCN a_Det (AdjCN (PositA heavy_A) (UseN sea_N))) (UseComp (CompAP (PositA white_A)))	une mer lourde est blanche	une mer lourde est blanche
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA warm_A)))	elle est chaude	elle est chaude
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN bread_N))) (UseComp (CompAP (PositA bad_A)))	un pain intelligent est mauvais	un pain sage est mauvais
+PredVPS (DetCN a_Det (UseN water_N)) (UseV sleep_V)	une eau dort	une eau dort
+PredVPS (DetCN a_Det (AdjCN (PositA ready_A) (UseN bread_N))) (UseComp (CompAP (PositA red_A)))	un pain prˆt est rouge	un pain prˆt est rouge
+PredVPS (DetCN thePl_Det (UseN animal_N)) (UseV come_V)	les animaux viennent	les animaux viennent
+PredVPS (UsePron they_Pron) (UseV jump_V)	ils sautent	ils sautent
+PredVPS (DetCN aPl_Det (AdjCN (PositA big_A) (UseN city_N))) (ComplV2 break_V2 (UsePron she_Pron))	des grandes villes la cassent	des grandes villes la cassent
+PredVPS (UsePron she_Pron) (UseV go_V)	elle va	elle va
+PredVPS (UsePron she_Pron) (UseV travel_V)	elle voyage	elle voyage
+PredVPS (DetCN the_Det (UseN sea_N)) (ComplV2 understand_V2 (DetCN a_Det (UseN apple_N)))	la mer comprend une pomme	la mer comprend une pomme
+PredVPS (UsePron they_Pron) (ComplV2 kill_V2 (UsePron she_Pron))	ils la tuent	ils la tuent
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA warm_A)))	il est chaud	il est chaud
+PredVPS (DetCN a_Det (AdjCN (PositA blue_A) (UseN milk_N))) (UseV jump_V)	un lait bleu saute	un lait bleu saute
+PredVPS (DetCN aPl_Det (AdjCN (PositA warm_A) (UseN wine_N))) (UseComp (CompAP (PositA clever_A)))	des vins chauds sont intelligents	des vins chauds sont sages
+PredVPS (DetCN thePl_Det (UseN language_N)) (UseComp (CompAP (PositA black_A)))	les langues sont noires	les langues sont noires
+PredVPS (DetCN the_Det (UseN cloud_N)) (UseV sleep_V)	le nuage dort	le nuage dort
+PredVPS (UsePron she_Pron) (ComplV2 wait_V2 (UsePron they_Pron))	elle les attend	elle les attend
+PredVPS (DetCN a_Det (UseN ship_N)) (ComplV2 buy_V2 (UsePron he_Pron))	un navire l' achŠte	un bateau l' &+ achŠte
+PredVPS (UsePron he_Pron) (AdvVP (UseV live_V) (PrepNP on_Prep (UsePron he_Pron)))	il vit sur lui	il vit sur lui
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 eat_V2 (UsePron she_Pron)) already_Adv)	il la mange d‚j…	il la mange d‚j…
+PredVPS (DetCN the_Det (AdjCN (PositA warm_A) (UseN child_N))) (UseV sleep_V)	l' enfant chaud dort	l' &+ enfant chaud dort
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV walk_V) already_Adv) already_Adv)	ils marchent d‚j… d‚j…	ils marchent d‚j… d‚j…
+PredVPS (DetCN the_Det (AdjCN (PositA blue_A) (UseN milk_N))) (UseComp (CompAP (PositA cold_A)))	le lait bleu est froid	le lait bleu est froid
+PredVPS (DetCN the_Det (AdjCN (PositA yellow_A) (UseN child_N))) (UseV jump_V)	l' enfant jaune saute	l' &+ enfant jaune saute
+PredVPS (UsePron they_Pron) (ComplV2 buy_V2 (DetCN aPl_Det (UseN water_N)))	ils achŠtent des eaux	ils achŠtent des eaux
+PredVPS (DetCN a_Det (AdjCN (PositA hot_A) (UseN fire_N))) (ComplV2 buy_V2 (DetCN thePl_Det (UseN animal_N)))	un feu chaud achŠte les animaux	un feu chaud achŠte les animaux
+PredVPS (UsePron he_Pron) (AdvVP (UseV swim_V) already_Adv)	il nage d‚j…	il nage d‚j…
+PredVPS (UsePron he_Pron) (AdvVP (UseV go_V) already_Adv)	il va d‚j…	il va d‚j…
+PredVPS (DetCN aPl_Det (UseN cow_N)) (UseComp (CompAP (PositA young_A)))	des vaches sont jeunes	des vaches sont jeunes
+PredVPS (UsePron she_Pron) (ComplV2 find_V2 (DetCN aPl_Det (UseN computer_N)))	elle trouve des ordinateurs	elle trouve des ordinateurs
+PredVPS (DetCN aPl_Det (UseN milk_N)) (AdvVP (AdvVP (UseV jump_V) now_Adv) now_Adv)	des laits sautent maintenant maintenant	des laits sautent maintenant maintenant
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 wait_V2 (UsePron they_Pron)) (PrepNP with_Prep (UsePron they_Pron)))	ils les attendent avec eux	ils les attendent avec eux
+PredVPS (DetCN aPl_Det (AdjCN (PositA blue_A) (UseN city_N))) (UseV swim_V)	des villes bleues nagent	des villes bleues nagent
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clean_A)))	elle est propre	elle est propre
+PredVPS (DetCN aPl_Det (AdjCN (PositA white_A) (UseN flower_N))) (UseV swim_V)	des fleurs blanches nagent	des fleurs blanches nagent
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA small_A)))	ils sont petits	ils sont petits
+PredVPS (DetCN thePl_Det (AdjCN (PositA big_A) (UseN bike_N))) (UseComp (CompAP (PositA small_A)))	les grands v‚los sont petits	les grands v‚los sont petits
+PredVPS (DetCN a_Det (UseN beer_N)) (UseComp (CompAP (PositA dirty_A)))	une biŠre est sale	une biŠre est sale
+PredVPS (DetCN the_Det (UseN train_N)) (ComplV2 drink_V2 (DetCN thePl_Det (UseN boat_N)))	le train boit les bateaux	le train boit les bateaux
+PredVPS (UsePron she_Pron) (ComplV2 drink_V2 (DetCN the_Det (UseN ship_N)))	elle boit le navire	elle boit le bateau
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV come_V) already_Adv) now_Adv)	ils viennent d‚j… maintenant	ils viennent d‚j… maintenant
+PredVPS (UsePron she_Pron) (AdvVP (UseV play_V) already_Adv)	elle joue d‚j…	elle joue d‚j…
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA red_A)))	ils sont rouges	ils sont rouges
+PredVPS (UsePron she_Pron) (ComplV2 read_V2 (UsePron they_Pron))	elle les lit	elle les lit
+PredVPS (DetCN thePl_Det (AdjCN (PositA big_A) (UseN beer_N))) (AdvVP (UseV walk_V) now_Adv)	les grandes biŠres marchent maintenant	les grandes biŠres marchent maintenant
+PredVPS (UsePron he_Pron) (UseV walk_V)	il marche	il marche
+PredVPS (DetCN the_Det (UseN train_N)) (UseV live_V)	le train vit	le train vit
+PredVPS (UsePron he_Pron) (ComplV2 read_V2 (DetCN aPl_Det (UseN fire_N)))	il lit des feux	il lit des feux
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA black_A)))	il est noir	il est noir
+PredVPS (DetCN thePl_Det (AdjCN (PositA good_A) (UseN fire_N))) (ComplV2 drink_V2 (UsePron they_Pron))	les bons feux les boivent	les bons feux les boivent
+PredVPS (DetCN aPl_Det (AdjCN (PositA green_A) (UseN cow_N))) (ComplV2 teach_V2 (DetCN a_Det (UseN city_N)))	des vaches vertes enseignent une ville	des vaches vertes enseignent une ville
+PredVPS (DetCN the_Det (AdjCN (PositA small_A) (UseN dog_N))) (UseV go_V)	le petit chien va	le petit chien va
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 buy_V2 (UsePron he_Pron)) already_Adv)	elle l' achŠte d‚j…	elle l' &+ achŠte d‚j…
+PredVPS (DetCN a_Det (UseN boat_N)) (AdvVP (AdvVP (UseV go_V) already_Adv) now_Adv)	un bateau va d‚j… maintenant	un bateau va d‚j… maintenant
+PredVPS (DetCN a_Det (UseN woman_N)) (UseV play_V)	une femme joue	une femme joue
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV jump_V) already_Adv) (PrepNP on_Prep (UsePron he_Pron)))	ils sautent d‚j… sur lui	ils sautent d‚j… sur lui
+PredVPS (DetCN aPl_Det (UseN train_N)) (ComplV2 kill_V2 (UsePron she_Pron))	des trains la tuent	des trains la tuent
+PredVPS (UsePron he_Pron) (ComplV2 read_V2 (UsePron he_Pron))	il le lit	il le lit
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA blue_A)))	il est bleu	il est bleu
+PredVPS (DetCN thePl_Det (UseN flower_N)) (AdvVP (ComplV2 see_V2 (UsePron they_Pron)) now_Adv)	les fleurs les voient maintenant	les fleurs les voient maintenant
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 read_V2 (UsePron he_Pron)) now_Adv)	elle le lit maintenant	elle le lit maintenant
+PredVPS (DetCN thePl_Det (UseN bread_N)) (ComplV2 read_V2 (DetCN thePl_Det (UseN fish_N)))	les pains lisent les poissons	les pains lisent les poissons
+PredVPS (UsePron she_Pron) (ComplV2 wait_V2 (DetCN the_Det (UseN language_N)))	elle attend la langue	elle attend la langue
+PredVPS (UsePron she_Pron) (UseV come_V)	elle vient	elle vient
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 understand_V2 (UsePron she_Pron)) (PrepNP with_Prep (UsePron he_Pron)))	ils la comprennent avec lui	ils la comprennent avec lui
+PredVPS (DetCN a_Det (AdjCN (PositA old_A) (UseN book_N))) (UseComp (CompAP (PositA red_A)))	un vieux livre est rouge	un vieux livre est rouge
+PredVPS (DetCN aPl_Det (UseN computer_N)) (AdvVP (ComplV2 drink_V2 (UsePron they_Pron)) (PrepNP on_Prep (UsePron they_Pron)))	des ordinateurs les boivent sur eux	des ordinateurs les boivent sur eux
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 teach_V2 (UsePron they_Pron)) already_Adv)	il les enseigne d‚j…	il les enseigne d‚j…
+PredVPS (DetCN the_Det (UseN boat_N)) (ComplV2 wait_V2 (DetCN aPl_Det (UseN girl_N)))	le bateau attend des filles	le bateau attend des filles
+PredVPS (UsePron they_Pron) (UseV live_V)	ils vivent	ils vivent
+PredVPS (DetCN aPl_Det (AdjCN (PositA bad_A) (UseN child_N))) (AdvVP (UseV swim_V) already_Adv)	des mauvais enfants nagent d‚j…	des mauvais enfants nagent d‚j…
+PredVPS (DetCN a_Det (AdjCN (PositA ready_A) (UseN city_N))) (AdvVP (ComplV2 eat_V2 (UsePron she_Pron)) now_Adv)	une ville prˆte la mange maintenant	une ville prˆte la mange maintenant
+PredVPS (UsePron she_Pron) (UseV jump_V)	elle saute	elle saute
+PredVPS (UsePron they_Pron) (UseV walk_V)	ils marchent	ils marchent
+PredVPS (DetCN the_Det (AdjCN (PositA good_A) (UseN computer_N))) (UseV live_V)	le bon ordinateur vit	le bon ordinateur vit
+PredVPS (DetCN aPl_Det (AdjCN (PositA warm_A) (UseN fish_N))) (AdvVP (AdvVP (UseV walk_V) already_Adv) already_Adv)	des poissons chauds marchent d‚j… d‚j…	des poissons chauds marchent d‚j… d‚j…
+PredVPS (DetCN aPl_Det (UseN train_N)) (UseComp (CompAP (PositA green_A)))	des trains sont verts	des trains sont verts
+PredVPS (UsePron he_Pron) (AdvVP (UseV travel_V) now_Adv)	il voyage maintenant	il voyage maintenant
+PredVPS (DetCN aPl_Det (UseN city_N)) (AdvVP (ComplV2 drink_V2 (UsePron she_Pron)) now_Adv)	des villes la boivent maintenant	des villes la boivent maintenant
+PredVPS (DetCN aPl_Det (UseN boy_N)) (ComplV2 wait_V2 (DetCN a_Det (UseN man_N)))	des gar‡ons attendent un homme	des gar‡ons attendent un homme
+PredVPS (DetCN aPl_Det (UseN city_N)) (AdvVP (ComplV2 see_V2 (UsePron she_Pron)) (PrepNP in_Prep (UsePron he_Pron)))	des villes la voient dans lui	des villes la voient dans lui
+PredVPS (DetCN aPl_Det (AdjCN (PositA clean_A) (UseN flower_N))) (UseV run_V)	des fleurs propres courent	des fleurs propres courent
+PredVPS (DetCN the_Det (AdjCN (PositA ready_A) (UseN car_N))) (UseComp (CompAP (PositA green_A)))	la voiture prˆte est verte	la voiture prˆte est verte
+PredVPS (DetCN the_Det (UseN star_N)) (UseV jump_V)	l' ‚toile saute	l' &+ ‚toile saute
+PredVPS (DetCN thePl_Det (AdjCN (PositA heavy_A) (UseN language_N))) (AdvVP (AdvVP (UseV sleep_V) now_Adv) already_Adv)	les langues lourdes dorment maintenant d‚j…	les langues lourdes dorment maintenant d‚j…
+PredVPS (DetCN aPl_Det (UseN milk_N)) (UseV play_V)	des laits jouent	des laits jouent
+PredVPS (DetCN a_Det (AdjCN (PositA ready_A) (UseN wine_N))) (AdvVP (ComplV2 read_V2 (UsePron she_Pron)) now_Adv)	un vin prˆt la lit maintenant	un vin prˆt la lit maintenant
+PredVPS (UsePron he_Pron) (UseV live_V)	il vit	il vit
+PredVPS (DetCN a_Det (UseN flower_N)) (ComplV2 break_V2 (UsePron they_Pron))	une fleur les casse	une fleur les casse
+PredVPS (UsePron they_Pron) (ComplV2 buy_V2 (DetCN aPl_Det (UseN fish_N)))	ils achŠtent des poissons	ils achŠtent des poissons
+PredVPS (UsePron she_Pron) (AdvVP (UseV jump_V) now_Adv)	elle saute maintenant	elle saute maintenant
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV swim_V) already_Adv) now_Adv)	il nage d‚j… maintenant	il nage d‚j… maintenant
+PredVPS (UsePron he_Pron) (ComplV2 find_V2 (UsePron she_Pron))	il la trouve	il la trouve
+PredVPS (DetCN a_Det (AdjCN (PositA yellow_A) (UseN beer_N))) (ComplV2 love_V2 (DetCN aPl_Det (UseN train_N)))	une biŠre jaune aime des trains	une biŠre jaune aime des trains
+PredVPS (UsePron he_Pron) (ComplV2 read_V2 (UsePron they_Pron))	il les lit	il les lit
+PredVPS (DetCN the_Det (AdjCN (PositA warm_A) (UseN bike_N))) (ComplV2 buy_V2 (UsePron he_Pron))	le v‚lo chaud l' achŠte	le v‚lo chaud l' &+ achŠte
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA good_A)))	elle est bonne	elle est bonne
+PredVPS (DetCN a_Det (AdjCN (PositA heavy_A) (UseN music_N))) (UseV walk_V)	une musique lourde marche	une musique lourde marche
+PredVPS (DetCN thePl_Det (AdjCN (PositA hot_A) (UseN girl_N))) (AdvVP (ComplV2 buy_V2 (UsePron she_Pron)) now_Adv)	les filles chaudes l' achŠtent maintenant	les filles chaudes l' &+ achŠtent maintenant
+PredVPS (UsePron he_Pron) (ComplV2 see_V2 (DetCN a_Det (UseN car_N)))	il voit une voiture	il voit une voiture
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA heavy_A)))	elle est lourde	elle est lourde
+PredVPS (DetCN thePl_Det (AdjCN (PositA black_A) (UseN bird_N))) (AdvVP (ComplV2 read_V2 (UsePron he_Pron)) now_Adv)	les oiseaux noirs le lisent maintenant	les oiseaux noirs le lisent maintenant
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV play_V) already_Adv) already_Adv)	elle joue d‚j… d‚j…	elle joue d‚j… d‚j…
+PredVPS (DetCN a_Det (UseN apple_N)) (UseV jump_V)	une pomme saute	une pomme saute
+PredVPS (DetCN a_Det (AdjCN (PositA black_A) (UseN bike_N))) (AdvVP (ComplV2 read_V2 (UsePron they_Pron)) (PrepNP with_Prep (UsePron he_Pron)))	un v‚lo noir les lit avec lui	un v‚lo noir les lit avec lui
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA big_A)))	ils sont grands	ils sont grands
+PredVPS (UsePron she_Pron) (ComplV2 teach_V2 (DetCN a_Det (UseN blood_N)))	elle enseigne un sang	elle enseigne un sang
+PredVPS (DetCN the_Det (UseN man_N)) (UseComp (CompAP (PositA small_A)))	l' homme est petit	l' &+ homme est petit
+PredVPS (DetCN a_Det (AdjCN (PositA warm_A) (UseN star_N))) (ComplV2 kill_V2 (DetCN the_Det (UseN bike_N)))	une ‚toile chaude tue le v‚lo	une ‚toile chaude tue le v‚lo
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA clever_A)))	il est intelligent	il est sage
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 wait_V2 (UsePron she_Pron)) (PrepNP with_Prep (UsePron they_Pron)))	ils l' attendent avec eux	ils l' &+ attendent avec eux
+PredVPS (DetCN thePl_Det (UseN dog_N)) (ComplV2 love_V2 (DetCN a_Det (UseN friend_N)))	les chiens aiment un ami	les chiens aiment un ami
+PredVPS (UsePron they_Pron) (AdvVP (UseV run_V) now_Adv)	ils courent maintenant	ils courent maintenant
+PredVPS (UsePron she_Pron) (UseV sleep_V)	elle dort	elle dort
+PredVPS (UsePron she_Pron) (ComplV2 read_V2 (DetCN thePl_Det (UseN bird_N)))	elle lit les oiseaux	elle lit les oiseaux
+PredVPS (DetCN thePl_Det (AdjCN (PositA big_A) (UseN train_N))) (AdvVP (UseV walk_V) already_Adv)	les grands trains marchent d‚j…	les grands trains marchent d‚j…
+PredVPS (DetCN aPl_Det (AdjCN (PositA clean_A) (UseN cow_N))) (UseComp (CompAP (PositA dirty_A)))	des vaches propres sont sales	des vaches propres sont sales
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV sleep_V) now_Adv) now_Adv)	il dort maintenant maintenant	il dort maintenant maintenant
+PredVPS (UsePron she_Pron) (ComplV2 wait_V2 (UsePron he_Pron))	elle l' attend	elle l' &+ attend
+PredVPS (UsePron they_Pron) (AdvVP (UseV run_V) (PrepNP in_Prep (UsePron he_Pron)))	ils courent dans lui	ils courent dans lui
+PredVPS (DetCN the_Det (AdjCN (PositA dirty_A) (UseN city_N))) (UseComp (CompAP (PositA green_A)))	la ville sale est verte	la ville sale est verte
+PredVPS (DetCN aPl_Det (AdjCN (PositA small_A) (UseN girl_N))) (UseV swim_V)	des petites filles nagent	des petites filles nagent
+PredVPS (UsePron he_Pron) (UseV swim_V)	il nage	il nage
+PredVPS (DetCN thePl_Det (AdjCN (PositA blue_A) (UseN music_N))) (ComplV2 buy_V2 (DetCN aPl_Det (UseN house_N)))	les musiques bleues achŠtent des maisons	les musiques bleues achŠtent des maisons
+PredVPS (DetCN the_Det (UseN fish_N)) (ComplV2 kill_V2 (DetCN a_Det (UseN man_N)))	le poisson tue un homme	le poisson tue un homme
+PredVPS (UsePron she_Pron) (ComplV2 drink_V2 (UsePron he_Pron))	elle le boit	elle le boit
+PredVPS (DetCN thePl_Det (AdjCN (PositA cold_A) (UseN bird_N))) (ComplV2 understand_V2 (UsePron he_Pron))	les oiseaux froids le comprennent	les oiseaux froids le comprennent
+PredVPS (DetCN thePl_Det (AdjCN (PositA yellow_A) (UseN bird_N))) (UseComp (CompAP (PositA red_A)))	les oiseaux jaunes sont rouges	les oiseaux jaunes sont rouges
+PredVPS (DetCN a_Det (AdjCN (PositA warm_A) (UseN book_N))) (UseComp (CompAP (PositA warm_A)))	un livre chaud est chaud	un livre chaud est chaud
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA white_A)))	ils sont blancs	ils sont blancs
+PredVPS (DetCN a_Det (UseN book_N)) (AdvVP (UseV live_V) (PrepNP on_Prep (UsePron they_Pron)))	un livre vit sur eux	un livre vit sur eux
+PredVPS (DetCN a_Det (UseN tree_N)) (UseComp (CompAP (PositA black_A)))	un arbre est noir	un arbre est noir
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA warm_A)))	ils sont chauds	ils sont chauds
+PredVPS (UsePron they_Pron) (UseV jump_V)	ils sautent	ils sautent
+PredVPS (UsePron he_Pron) (ComplV2 break_V2 (DetCN thePl_Det (UseN child_N)))	il casse les enfants	il casse les enfants
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN water_N))) (UseV come_V)	une eau intelligente vient	une eau sage vient
+PredVPS (DetCN aPl_Det (UseN tree_N)) (UseComp (CompAP (PositA green_A)))	des arbres sont verts	des arbres sont verts
+PredVPS (DetCN thePl_Det (UseN milk_N)) (UseComp (CompAP (PositA ready_A)))	les laits sont prˆts	les laits sont prˆts
+PredVPS (DetCN a_Det (UseN city_N)) (AdvVP (UseV travel_V) already_Adv)	une ville voyage d‚j…	une ville voyage d‚j…
+PredVPS (DetCN a_Det (AdjCN (PositA good_A) (UseN beer_N))) (UseComp (CompAP (PositA bad_A)))	une bonne biŠre est mauvaise	une bonne biŠre est mauvaise
+PredVPS (UsePron he_Pron) (AdvVP (UseV swim_V) already_Adv)	il nage d‚j…	il nage d‚j…
+PredVPS (DetCN aPl_Det (AdjCN (PositA good_A) (UseN cat_N))) (UseV run_V)	des bons chats courent	des bons chats courent
+PredVPS (DetCN the_Det (AdjCN (PositA cold_A) (UseN star_N))) (ComplV2 love_V2 (UsePron she_Pron))	l' ‚toile froide l' aime	l' &+ ‚toile froide l' &+ aime
+PredVPS (DetCN thePl_Det (UseN blood_N)) (ComplV2 love_V2 (DetCN the_Det (UseN tree_N)))	les sangs aiment l' arbre	les sangs aiment l' &+ arbre
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN music_N))) (ComplV2 find_V2 (UsePron he_Pron))	les musiques vertes le trouvent	les musiques vertes le trouvent
+PredVPS (DetCN thePl_Det (AdjCN (PositA clever_A) (UseN music_N))) (UseV sleep_V)	les musiques intelligentes dorment	les musiques sages dorment
+PredVPS (UsePron she_Pron) (AdvVP (UseV travel_V) (PrepNP in_Prep (UsePron she_Pron)))	elle voyage dans elle	elle voyage dans elle
+PredVPS (DetCN thePl_Det (AdjCN (PositA yellow_A) (UseN apple_N))) (UseV come_V)	les pommes jaunes viennent	les pommes jaunes viennent
+PredVPS (DetCN aPl_Det (UseN city_N)) (UseV jump_V)	des villes sautent	des villes sautent
+PredVPS (DetCN the_Det (AdjCN (PositA white_A) (UseN car_N))) (ComplV2 kill_V2 (DetCN the_Det (UseN wine_N)))	la voiture blanche tue le vin	la voiture blanche tue le vin
+PredVPS (DetCN a_Det (UseN train_N)) (ComplV2 love_V2 (UsePron she_Pron))	un train l' aime	un train l' &+ aime
+PredVPS (UsePron she_Pron) (AdvVP (UseV swim_V) (PrepNP on_Prep (UsePron she_Pron)))	elle nage sur elle	elle nage sur elle
+PredVPS (DetCN aPl_Det (AdjCN (PositA dirty_A) (UseN beer_N))) (AdvVP (UseV live_V) (PrepNP with_Prep (UsePron they_Pron)))	des biŠres sales vivent avec eux	des biŠres sales vivent avec eux
+PredVPS (DetCN thePl_Det (AdjCN (PositA red_A) (UseN bread_N))) (UseComp (CompAP (PositA bad_A)))	les pains rouges sont mauvais	les pains rouges sont mauvais
+PredVPS (UsePron they_Pron) (ComplV2 eat_V2 (UsePron he_Pron))	ils le mangent	ils le mangent
+PredVPS (DetCN the_Det (UseN river_N)) (ComplV2 understand_V2 (DetCN the_Det (UseN man_N)))	la riviŠre comprend l' homme	la riviŠre comprend l' &+ homme
+PredVPS (DetCN aPl_Det (AdjCN (PositA black_A) (UseN child_N))) (AdvVP (UseV walk_V) (PrepNP on_Prep (UsePron she_Pron)))	des enfants noirs marchent sur elle	des enfants noirs marchent sur elle
+PredVPS (UsePron he_Pron) (ComplV2 eat_V2 (DetCN thePl_Det (UseN child_N)))	il mange les enfants	il mange les enfants
+PredVPS (UsePron he_Pron) (UseV sleep_V)	il dort	il dort
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 break_V2 (UsePron she_Pron)) now_Adv)	elle la casse maintenant	elle la casse maintenant
+PredVPS (UsePron he_Pron) (UseV come_V)	il vient	il vient
+PredVPS (DetCN aPl_Det (AdjCN (PositA clean_A) (UseN cow_N))) (ComplV2 wait_V2 (UsePron he_Pron))	des vaches propres l' attendent	des vaches propres l' &+ attendent
+PredVPS (UsePron he_Pron) (ComplV2 see_V2 (DetCN aPl_Det (UseN animal_N)))	il voit des animaux	il voit des animaux
+PredVPS (UsePron he_Pron) (ComplV2 drink_V2 (DetCN a_Det (UseN blood_N)))	il boit un sang	il boit un sang
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	ils sont sales	ils sont sales
+PredVPS (UsePron they_Pron) (UseV play_V)	ils jouent	ils jouent
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA white_A)))	il est blanc	il est blanc
+PredVPS (UsePron they_Pron) (UseV travel_V)	ils voyagent	ils voyagent
+PredVPS (DetCN aPl_Det (AdjCN (PositA dirty_A) (UseN wine_N))) (UseComp (CompAP (PositA heavy_A)))	des vins sales sont lourds	des vins sales sont lourds
+PredVPS (DetCN a_Det (UseN apple_N)) (ComplV2 kill_V2 (DetCN a_Det (UseN computer_N)))	une pomme tue un ordinateur	une pomme tue un ordinateur
+PredVPS (DetCN the_Det (AdjCN (PositA new_A) (UseN star_N))) (UseComp (CompAP (PositA white_A)))	la nouvelle ‚toile est blanche	la nouvelle ‚toile est blanche
+PredVPS (UsePron she_Pron) (UseV go_V)	elle va	elle va
+PredVPS (DetCN thePl_Det (UseN computer_N)) (UseComp (CompAP (PositA yellow_A)))	les ordinateurs sont jaunes	les ordinateurs sont jaunes
+PredVPS (DetCN thePl_Det (UseN baby_N)) (UseV swim_V)	les b‚b‚s nagent	les b‚b‚s nagent
+PredVPS (DetCN thePl_Det (UseN apple_N)) (UseComp (CompAP (PositA bad_A)))	les pommes sont mauvaises	les pommes sont mauvaises
+PredVPS (UsePron they_Pron) (UseV sleep_V)	ils dorment	ils dorment
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV run_V) already_Adv) now_Adv)	elle court d‚j… maintenant	elle court d‚j… maintenant
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA young_A)))	ils sont jeunes	ils sont jeunes
+PredVPS (DetCN aPl_Det (AdjCN (PositA big_A) (UseN child_N))) (AdvVP (AdvVP (UseV swim_V) now_Adv) (PrepNP with_Prep (UsePron he_Pron)))	des grands enfants nagent maintenant avec lui	des grands enfants nagent maintenant avec lui
+PredVPS (UsePron he_Pron) (UseV swim_V)	il nage	il nage
+PredVPS (DetCN a_Det (AdjCN (PositA red_A) (UseN friend_N))) (AdvVP (UseV come_V) now_Adv)	un ami rouge vient maintenant	un ami rouge vient maintenant
+PredVPS (DetCN aPl_Det (AdjCN (PositA white_A) (UseN music_N))) (UseV jump_V)	des musiques blanches sautent	des musiques blanches sautent
+PredVPS (DetCN the_Det (UseN cow_N)) (ComplV2 see_V2 (UsePron he_Pron))	la vache le voit	la vache le voit
+PredVPS (DetCN aPl_Det (AdjCN (PositA red_A) (UseN horse_N))) (AdvVP (AdvVP (UseV sleep_V) already_Adv) already_Adv)	des chevaux rouges dorment d‚j… d‚j…	des chevaux rouges dorment d‚j… d‚j…
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA clean_A)))	il est propre	il est propre
+PredVPS (DetCN a_Det (AdjCN (PositA yellow_A) (UseN man_N))) (AdvVP (AdvVP (UseV come_V) now_Adv) (PrepNP in_Prep (UsePron he_Pron)))	un homme jaune vient maintenant dans lui	un homme jaune vient maintenant dans lui
+PredVPS (UsePron he_Pron) (ComplV2 buy_V2 (DetCN the_Det (UseN fish_N)))	il achŠte le poisson	il achŠte le poisson
+PredVPS (UsePron he_Pron) (ComplV2 buy_V2 (UsePron they_Pron))	il les achŠte	il les achŠte
+PredVPS (UsePron he_Pron) (ComplV2 eat_V2 (UsePron he_Pron))	il le mange	il le mange
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA yellow_A)))	il est jaune	il est jaune
+PredVPS (DetCN a_Det (AdjCN (PositA big_A) (UseN bike_N))) (AdvVP (UseV go_V) already_Adv)	un grand v‚lo va d‚j…	un grand v‚lo va d‚j…
+PredVPS (DetCN thePl_Det (UseN animal_N)) (ComplV2 kill_V2 (UsePron he_Pron))	les animaux le tuent	les animaux le tuent
+PredVPS (UsePron he_Pron) (UseV jump_V)	il saute	il saute
+PredVPS (DetCN a_Det (UseN milk_N)) (ComplV2 break_V2 (DetCN a_Det (UseN boat_N)))	un lait casse un bateau	un lait casse un bateau
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA heavy_A)))	ils sont lourds	ils sont lourds
+PredVPS (DetCN thePl_Det (UseN cloud_N)) (UseV travel_V)	les nuages voyagent	les nuages voyagent
+PredVPS (DetCN the_Det (AdjCN (PositA dirty_A) (UseN book_N))) (UseV walk_V)	le livre sale marche	le livre sale marche
+PredVPS (DetCN thePl_Det (UseN blood_N)) (UseComp (CompAP (PositA dirty_A)))	les sangs sont sales	les sangs sont sales
+PredVPS (UsePron they_Pron) (UseV jump_V)	ils sautent	ils sautent
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA yellow_A)))	ils sont jaunes	ils sont jaunes
+PredVPS (DetCN the_Det (AdjCN (PositA red_A) (UseN city_N))) (ComplV2 eat_V2 (DetCN aPl_Det (UseN milk_N)))	la ville rouge mange des laits	la ville rouge mange des laits
+PredVPS (UsePron she_Pron) (UseV come_V)	elle vient	elle vient
+PredVPS (DetCN thePl_Det (AdjCN (PositA clean_A) (UseN girl_N))) (UseComp (CompAP (PositA green_A)))	les filles propres sont vertes	les filles propres sont vertes
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA young_A)))	ils sont jeunes	ils sont jeunes
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 find_V2 (UsePron they_Pron)) now_Adv)	elle les trouve maintenant	elle les trouve maintenant
+PredVPS (UsePron they_Pron) (UseV travel_V)	ils voyagent	ils voyagent
+PredVPS (UsePron they_Pron) (UseV play_V)	ils jouent	ils jouent
+PredVPS (DetCN a_Det (UseN boy_N)) (UseV jump_V)	un gar‡on saute	un gar‡on saute
+PredVPS (DetCN aPl_Det (UseN grammar_N)) (AdvVP (ComplV2 understand_V2 (UsePron they_Pron)) now_Adv)	des grammaires les comprennent maintenant	des grammaires les comprennent maintenant
+PredVPS (DetCN a_Det (UseN sea_N)) (AdvVP (ComplV2 find_V2 (UsePron they_Pron)) now_Adv)	une mer les trouve maintenant	une mer les trouve maintenant
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV live_V) already_Adv) already_Adv)	il vit d‚j… d‚j…	il vit d‚j… d‚j…
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA white_A)))	il est blanc	il est blanc
+PredVPS (DetCN the_Det (UseN city_N)) (UseComp (CompAP (PositA black_A)))	la ville est noire	la ville est noire
+PredVPS (UsePron he_Pron) (UseV jump_V)	il saute	il saute
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA cold_A)))	elle est froide	elle est froide
+PredVPS (DetCN thePl_Det (AdjCN (PositA cold_A) (UseN grammar_N))) (UseV sleep_V)	les grammaires froides dorment	les grammaires froides dorment
+PredVPS (DetCN a_Det (AdjCN (PositA cold_A) (UseN baby_N))) (UseComp (CompAP (PositA black_A)))	un b‚b‚ froid est noir	un b‚b‚ froid est noir
+PredVPS (DetCN a_Det (AdjCN (PositA warm_A) (UseN milk_N))) (UseV walk_V)	un lait chaud marche	un lait chaud marche
+PredVPS (DetCN a_Det (AdjCN (PositA small_A) (UseN child_N))) (UseComp (CompAP (PositA cold_A)))	un petit enfant est froid	un petit enfant est froid
+PredVPS (DetCN thePl_Det (UseN bread_N)) (AdvVP (AdvVP (UseV sleep_V) now_Adv) already_Adv)	les pains dorment maintenant d‚j…	les pains dorment maintenant d‚j…
+PredVPS (DetCN thePl_Det (UseN book_N)) (ComplV2 read_V2 (UsePron he_Pron))	les livres le lisent	les livres le lisent
+PredVPS (DetCN a_Det (AdjCN (PositA small_A) (UseN house_N))) (UseComp (CompAP (PositA warm_A)))	une petite maison est chaude	une petite maison est chaude
+PredVPS (UsePron he_Pron) (UseV go_V)	il va	il va
+PredVPS (UsePron they_Pron) (UseV run_V)	ils courent	ils courent
+PredVPS (DetCN aPl_Det (AdjCN (PositA cold_A) (UseN bread_N))) (UseComp (CompAP (PositA hot_A)))	des pains froids sont chauds	des pains froids sont chauds
+PredVPS (UsePron she_Pron) (UseV play_V)	elle joue	elle joue
+PredVPS (DetCN thePl_Det (AdjCN (PositA cold_A) (UseN child_N))) (UseV swim_V)	les enfants froids nagent	les enfants froids nagent
+PredVPS (UsePron she_Pron) (AdvVP (UseV come_V) now_Adv)	elle vient maintenant	elle vient maintenant
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA dirty_A)))	il est sale	il est sale
+PredVPS (UsePron he_Pron) (ComplV2 see_V2 (UsePron she_Pron))	il la voit	il la voit
+PredVPS (UsePron he_Pron) (AdvVP (UseV run_V) (PrepNP in_Prep (UsePron she_Pron)))	il court dans elle	il court dans elle
+PredVPS (UsePron he_Pron) (UseV come_V)	il vient	il vient
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA blue_A)))	ils sont bleus	ils sont bleus
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 kill_V2 (UsePron she_Pron)) (PrepNP with_Prep (UsePron he_Pron)))	ils la tuent avec lui	ils la tuent avec lui
+PredVPS (DetCN thePl_Det (AdjCN (PositA dirty_A) (UseN flower_N))) (AdvVP (ComplV2 love_V2 (UsePron they_Pron)) already_Adv)	les fleurs sales les aiment d‚j…	les fleurs sales les aiment d‚j…
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 see_V2 (UsePron she_Pron)) (PrepNP in_Prep (UsePron he_Pron)))	ils la voient dans lui	ils la voient dans lui
+PredVPS (DetCN a_Det (AdjCN (PositA new_A) (UseN friend_N))) (UseComp (CompAP (PositA new_A)))	un nouveau ami est nouveau	un nouvel ami est nouveau
+PredVPS (DetCN thePl_Det (UseN bike_N)) (AdvVP (UseV walk_V) now_Adv)	les v‚los marchent maintenant	les v‚los marchent maintenant
+PredVPS (UsePron she_Pron) (AdvVP (UseV go_V) already_Adv)	elle va d‚j…	elle va d‚j…
+PredVPS (DetCN thePl_Det (AdjCN (PositA clean_A) (UseN milk_N))) (UseV play_V)	les laits propres jouent	les laits propres jouent
+PredVPS (UsePron he_Pron) (ComplV2 wait_V2 (UsePron they_Pron))	il les attend	il les attend
+PredVPS (UsePron she_Pron) (UseV run_V)	elle court	elle court
+PredVPS (DetCN a_Det (UseN language_N)) (AdvVP (AdvVP (UseV sleep_V) already_Adv) (PrepNP on_Prep (UsePron she_Pron)))	une langue dort d‚j… sur elle	une langue dort d‚j… sur elle
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA white_A)))	ils sont blancs	ils sont blancs
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA old_A)))	ils sont vieux	ils sont vieux
+PredVPS (DetCN aPl_Det (AdjCN (PositA heavy_A) (UseN woman_N))) (AdvVP (UseV run_V) now_Adv)	des femmes lourdes courent maintenant	des femmes lourdes courent maintenant
+PredVPS (UsePron they_Pron) (UseV swim_V)	ils nagent	ils nagent
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 read_V2 (UsePron he_Pron)) (PrepNP in_Prep (UsePron they_Pron)))	il le lit dans eux	il le lit dans eux
+PredVPS (DetCN a_Det (UseN flower_N)) (ComplV2 drink_V2 (UsePron they_Pron))	une fleur les boit	une fleur les boit
+PredVPS (DetCN thePl_Det (AdjCN (PositA cold_A) (UseN horse_N))) (UseComp (CompAP (PositA clever_A)))	les chevaux froids sont intelligents	les chevaux froids sont sages
+PredVPS (DetCN the_Det (AdjCN (PositA big_A) (UseN child_N))) (UseComp (CompAP (PositA green_A)))	le grand enfant est vert	le grand enfant est vert
+PredVPS (DetCN a_Det (AdjCN (PositA heavy_A) (UseN water_N))) (UseComp (CompAP (PositA white_A)))	une eau lourde est blanche	une eau lourde est blanche
+PredVPS (DetCN a_Det (UseN child_N)) (AdvVP (AdvVP (UseV walk_V) now_Adv) already_Adv)	un enfant marche maintenant d‚j…	un enfant marche maintenant d‚j…
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 kill_V2 (UsePron they_Pron)) already_Adv)	il les tue d‚j…	il les tue d‚j…
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA good_A)))	il est bon	il est bon
+PredVPS (UsePron he_Pron) (ComplV2 buy_V2 (DetCN thePl_Det (UseN water_N)))	il achŠte les eaux	il achŠte les eaux
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA young_A)))	elle est jeune	elle est jeune
+PredVPS (DetCN a_Det (UseN music_N)) (ComplV2 eat_V2 (DetCN a_Det (UseN bike_N)))	une musique mange un v‚lo	une musique mange un v‚lo
+PredVPS (DetCN a_Det (AdjCN (PositA small_A) (UseN milk_N))) (UseComp (CompAP (PositA cold_A)))	un petit lait est froid	un petit lait est froid
+PredVPS (DetCN thePl_Det (AdjCN (PositA heavy_A) (UseN ship_N))) (ComplV2 see_V2 (DetCN aPl_Det (UseN bike_N)))	les navires lourds voient des v‚los	les bateaux lourds voient des v‚los
+PredVPS (DetCN thePl_Det (AdjCN (PositA dirty_A) (UseN ship_N))) (UseComp (CompAP (PositA small_A)))	les navires sales sont petits	les bateaux sales sont petits
+PredVPS (UsePron they_Pron) (AdvVP (UseV play_V) already_Adv)	ils jouent d‚j…	ils jouent d‚j…
+PredVPS (DetCN aPl_Det (UseN beer_N)) (ComplV2 buy_V2 (DetCN aPl_Det (UseN river_N)))	des biŠres achŠtent des riviŠres	des biŠres achŠtent des riviŠres
+PredVPS (UsePron they_Pron) (ComplV2 buy_V2 (DetCN aPl_Det (UseN wine_N)))	ils achŠtent des vins	ils achŠtent des vins
+PredVPS (DetCN a_Det (UseN friend_N)) (UseV run_V)	un ami court	un ami court
+PredVPS (DetCN a_Det (AdjCN (PositA yellow_A) (UseN boat_N))) (AdvVP (ComplV2 drink_V2 (UsePron she_Pron)) (PrepNP with_Prep (UsePron they_Pron)))	un bateau jaune la boit avec eux	un bateau jaune la boit avec eux
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA heavy_A)))	il est lourd	il est lourd
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA new_A)))	il est nouveau	il est nouveau
+PredVPS (DetCN the_Det (UseN boat_N)) (ComplV2 kill_V2 (DetCN aPl_Det (UseN house_N)))	le bateau tue des maisons	le bateau tue des maisons
+PredVPS (DetCN thePl_Det (AdjCN (PositA heavy_A) (UseN house_N))) (UseV sleep_V)	les maisons lourdes dorment	les maisons lourdes dorment
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA clean_A)))	ils sont propres	ils sont propres
+PredVPS (UsePron she_Pron) (UseV walk_V)	elle marche	elle marche
+PredVPS (DetCN the_Det (AdjCN (PositA old_A) (UseN boy_N))) (UseV travel_V)	le vieux gar‡on voyage	le vieux gar‡on voyage
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV live_V) now_Adv) (PrepNP on_Prep (UsePron they_Pron)))	ils vivent maintenant sur eux	ils vivent maintenant sur eux
+PredVPS (DetCN thePl_Det (AdjCN (PositA hot_A) (UseN girl_N))) (ComplV2 drink_V2 (DetCN aPl_Det (UseN cloud_N)))	les filles chaudes boivent des nuages	les filles chaudes boivent des nuages
+PredVPS (DetCN the_Det (UseN blood_N)) (ComplV2 find_V2 (UsePron they_Pron))	le sang les trouve	le sang les trouve
+PredVPS (UsePron they_Pron) (ComplV2 break_V2 (DetCN a_Det (UseN child_N)))	ils cassent un enfant	ils cassent un enfant
+PredVPS (DetCN a_Det (AdjCN (PositA bad_A) (UseN cow_N))) (UseComp (CompAP (PositA black_A)))	une mauvaise vache est noire	une mauvaise vache est noire
+PredVPS (DetCN aPl_Det (AdjCN (PositA black_A) (UseN friend_N))) (AdvVP (UseV jump_V) already_Adv)	des amis noirs sautent d‚j…	des amis noirs sautent d‚j…
+PredVPS (DetCN aPl_Det (AdjCN (PositA old_A) (UseN sea_N))) (AdvVP (AdvVP (UseV swim_V) already_Adv) (PrepNP on_Prep (UsePron he_Pron)))	des vieilles mers nagent d‚j… sur lui	des vieilles mers nagent d‚j… sur lui
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN dog_N))) (UseComp (CompAP (PositA bad_A)))	les chiens verts sont mauvais	les chiens verts sont mauvais
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA bad_A)))	il est mauvais	il est mauvais
+PredVPS (UsePron they_Pron) (UseV come_V)	ils viennent	ils viennent
+PredVPS (UsePron he_Pron) (ComplV2 buy_V2 (DetCN thePl_Det (UseN child_N)))	il achŠte les enfants	il achŠte les enfants
+PredVPS (UsePron he_Pron) (UseV swim_V)	il nage	il nage
+PredVPS (DetCN the_Det (AdjCN (PositA green_A) (UseN wine_N))) (UseV play_V)	le vin vert joue	le vin vert joue
+PredVPS (DetCN a_Det (AdjCN (PositA old_A) (UseN bike_N))) (UseV travel_V)	un vieux v‚lo voyage	un vieux v‚lo voyage
+PredVPS (DetCN the_Det (UseN wine_N)) (UseComp (CompAP (PositA new_A)))	le vin est nouveau	le vin est nouveau
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV live_V) already_Adv) (PrepNP on_Prep (UsePron she_Pron)))	elle vit d‚j… sur elle	elle vit d‚j… sur elle
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clean_A)))	elle est propre	elle est propre
+PredVPS (UsePron she_Pron) (UseV travel_V)	elle voyage	elle voyage
+PredVPS (DetCN a_Det (UseN cat_N)) (AdvVP (AdvVP (UseV live_V) now_Adv) (PrepNP with_Prep (UsePron he_Pron)))	un chat vit maintenant avec lui	un chat vit maintenant avec lui
+PredVPS (DetCN aPl_Det (AdjCN (PositA bad_A) (UseN flower_N))) (ComplV2 see_V2 (DetCN the_Det (UseN sea_N)))	des mauvaises fleurs voient la mer	des mauvaises fleurs voient la mer
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA black_A)))	elle est noire	elle est noire
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA white_A)))	ils sont blancs	ils sont blancs
+PredVPS (DetCN a_Det (AdjCN (PositA green_A) (UseN water_N))) (AdvVP (UseV run_V) (PrepNP in_Prep (UsePron they_Pron)))	une eau verte court dans eux	une eau verte court dans eux
+PredVPS (UsePron he_Pron) (UseV swim_V)	il nage	il nage
+PredVPS (DetCN the_Det (UseN horse_N)) (AdvVP (UseV run_V) (PrepNP in_Prep (UsePron they_Pron)))	le cheval court dans eux	le cheval court dans eux
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA young_A)))	il est jeune	il est jeune
+PredVPS (DetCN the_Det (AdjCN (PositA ready_A) (UseN bread_N))) (UseComp (CompAP (PositA green_A)))	le pain prˆt est vert	le pain prˆt est vert
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA new_A)))	ils sont nouveaux	ils sont nouveaux
+PredVPS (DetCN the_Det (AdjCN (PositA big_A) (UseN animal_N))) (ComplV2 see_V2 (DetCN the_Det (UseN apple_N)))	le grand animal voit la pomme	le grand animal voit la pomme
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV walk_V) already_Adv) (PrepNP with_Prep (UsePron they_Pron)))	ils marchent d‚j… avec eux	ils marchent d‚j… avec eux
+PredVPS (DetCN a_Det (AdjCN (PositA big_A) (UseN city_N))) (UseComp (CompAP (PositA yellow_A)))	une grande ville est jaune	une grande ville est jaune
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA black_A)))	il est noir	il est noir
+PredVPS (DetCN the_Det (AdjCN (PositA hot_A) (UseN cow_N))) (UseV play_V)	la vache chaude joue	la vache chaude joue
+PredVPS (DetCN a_Det (AdjCN (PositA red_A) (UseN cow_N))) (AdvVP (UseV travel_V) already_Adv)	une vache rouge voyage d‚j…	une vache rouge voyage d‚j…
+PredVPS (DetCN aPl_Det (UseN milk_N)) (UseComp (CompAP (PositA hot_A)))	des laits sont chauds	des laits sont chauds
+PredVPS (DetCN aPl_Det (AdjCN (PositA dirty_A) (UseN bird_N))) (AdvVP (UseV sleep_V) already_Adv)	des oiseaux sales dorment d‚j…	des oiseaux sales dorment d‚j…
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	ils sont sales	ils sont sales
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 buy_V2 (UsePron she_Pron)) (PrepNP in_Prep (UsePron she_Pron)))	ils l' achŠtent dans elle	ils l' &+ achŠtent dans elle
+PredVPS (DetCN the_Det (AdjCN (PositA cold_A) (UseN dog_N))) (AdvVP (UseV go_V) (PrepNP with_Prep (UsePron they_Pron)))	le chien froid va avec eux	le chien froid va avec eux
+PredVPS (UsePron he_Pron) (UseV come_V)	il vient	il vient
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV play_V) now_Adv) (PrepNP on_Prep (UsePron they_Pron)))	elle joue maintenant sur eux	elle joue maintenant sur eux
+PredVPS (UsePron they_Pron) (UseV go_V)	ils vont	ils vont
+PredVPS (DetCN a_Det (AdjCN (PositA new_A) (UseN fish_N))) (UseComp (CompAP (PositA bad_A)))	un nouveau poisson est mauvais	un nouveau poisson est mauvais
+PredVPS (DetCN a_Det (UseN fish_N)) (UseV travel_V)	un poisson voyage	un poisson voyage
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV walk_V) now_Adv) now_Adv)	ils marchent maintenant maintenant	ils marchent maintenant maintenant
+PredVPS (DetCN thePl_Det (AdjCN (PositA bad_A) (UseN star_N))) (AdvVP (UseV sleep_V) (PrepNP with_Prep (UsePron she_Pron)))	les mauvaises ‚toiles dorment avec elle	les mauvaises ‚toiles dorment avec elle
+PredVPS (UsePron she_Pron) (UseV sleep_V)	elle dort	elle dort
+PredVPS (DetCN thePl_Det (UseN cloud_N)) (UseV play_V)	les nuages jouent	les nuages jouent
+PredVPS (UsePron she_Pron) (UseV live_V)	elle vit	elle vit
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA big_A)))	elle est grande	elle est grande
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA black_A)))	il est noir	il est noir
+PredVPS (DetCN a_Det (UseN bird_N)) (AdvVP (UseV travel_V) already_Adv)	un oiseau voyage d‚j…	un oiseau voyage d‚j…
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA good_A)))	ils sont bons	ils sont bons
+PredVPS (UsePron they_Pron) (ComplV2 eat_V2 (DetCN the_Det (UseN friend_N)))	ils mangent l' ami	ils mangent l' &+ ami
+PredVPS (UsePron she_Pron) (ComplV2 drink_V2 (UsePron he_Pron))	elle le boit	elle le boit
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	ils sont sales	ils sont sales
+PredVPS (UsePron they_Pron) (UseV play_V)	ils jouent	ils jouent
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 wait_V2 (UsePron they_Pron)) now_Adv)	ils les attendent maintenant	ils les attendent maintenant
+PredVPS (DetCN thePl_Det (AdjCN (PositA black_A) (UseN blood_N))) (UseV sleep_V)	les sangs noirs dorment	les sangs noirs dorment
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 love_V2 (UsePron they_Pron)) (PrepNP in_Prep (UsePron they_Pron)))	elle les aime dans eux	elle les aime dans eux
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA dirty_A)))	ils sont sales	ils sont sales
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA heavy_A)))	ils sont lourds	ils sont lourds
+PredVPS (DetCN the_Det (AdjCN (PositA clever_A) (UseN book_N))) (UseV live_V)	le livre intelligent vit	le livre sage vit
+PredVPS (DetCN the_Det (UseN city_N)) (AdvVP (UseV live_V) now_Adv)	la ville vit maintenant	la ville vit maintenant
+PredVPS (DetCN thePl_Det (UseN woman_N)) (UseV walk_V)	les femmes marchent	les femmes marchent
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV jump_V) already_Adv) now_Adv)	elle saute d‚j… maintenant	elle saute d‚j… maintenant
+PredVPS (DetCN the_Det (AdjCN (PositA heavy_A) (UseN cloud_N))) (ComplV2 wait_V2 (UsePron they_Pron))	le nuage lourd les attend	le nuage lourd les attend
+PredVPS (DetCN thePl_Det (UseN star_N)) (UseComp (CompAP (PositA clever_A)))	les ‚toiles sont intelligentes	les ‚toiles sont sages
+PredVPS (DetCN aPl_Det (UseN grammar_N)) (AdvVP (ComplV2 break_V2 (UsePron he_Pron)) now_Adv)	des grammaires le cassent maintenant	des grammaires le cassent maintenant
+PredVPS (DetCN thePl_Det (UseN train_N)) (UseComp (CompAP (PositA good_A)))	les trains sont bons	les trains sont bons
+PredVPS (UsePron he_Pron) (ComplV2 love_V2 (DetCN aPl_Det (UseN city_N)))	il aime des villes	il aime des villes
+PredVPS (UsePron he_Pron) (UseV go_V)	il va	il va
+PredVPS (DetCN thePl_Det (AdjCN (PositA old_A) (UseN computer_N))) (ComplV2 drink_V2 (DetCN thePl_Det (UseN child_N)))	les vieux ordinateurs boivent les enfants	les vieux ordinateurs boivent les enfants
+PredVPS (UsePron she_Pron) (UseV go_V)	elle va	elle va
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA old_A)))	il est vieux	il est vieux
+PredVPS (UsePron he_Pron) (AdvVP (UseV run_V) now_Adv)	il court maintenant	il court maintenant
+PredVPS (UsePron he_Pron) (ComplV2 find_V2 (UsePron she_Pron))	il la trouve	il la trouve
+PredVPS (DetCN aPl_Det (UseN bird_N)) (ComplV2 buy_V2 (UsePron he_Pron))	des oiseaux l' achŠtent	des oiseaux l' &+ achŠtent
+PredVPS (UsePron he_Pron) (AdvVP (UseV sleep_V) already_Adv)	il dort d‚j…	il dort d‚j…
+PredVPS (DetCN thePl_Det (UseN fire_N)) (AdvVP (AdvVP (UseV jump_V) now_Adv) now_Adv)	les feux sautent maintenant maintenant	les feux sautent maintenant maintenant
+PredVPS (DetCN a_Det (UseN cow_N)) (UseComp (CompAP (PositA bad_A)))	une vache est mauvaise	une vache est mauvaise
+PredVPS (UsePron she_Pron) (ComplV2 break_V2 (UsePron they_Pron))	elle les casse	elle les casse
+PredVPS (DetCN the_Det (AdjCN (PositA white_A) (UseN animal_N))) (ComplV2 drink_V2 (DetCN thePl_Det (UseN girl_N)))	l' animal blanc boit les filles	l' &+ animal blanc boit les filles
+PredVPS (DetCN thePl_Det (AdjCN (PositA clever_A) (UseN fire_N))) (UseComp (CompAP (PositA blue_A)))	les feux intelligents sont bleus	les feux sages sont bleus
+PredVPS (DetCN a_Det (AdjCN (PositA cold_A) (UseN star_N))) (UseV live_V)	une ‚toile froide vit	une ‚toile froide vit
+PredVPS (DetCN thePl_Det (UseN child_N)) (UseComp (CompAP (PositA clever_A)))	les enfants sont intelligents	les enfants sont sages
+PredVPS (DetCN the_Det (AdjCN (PositA new_A) (UseN train_N))) (UseComp (CompAP (PositA red_A)))	le nouveau train est rouge	le nouveau train est rouge
+PredVPS (UsePron they_Pron) (AdvVP (UseV come_V) already_Adv)	ils viennent d‚j…	ils viennent d‚j…
+PredVPS (DetCN aPl_Det (AdjCN (PositA big_A) (UseN fish_N))) (ComplV2 wait_V2 (DetCN thePl_Det (UseN milk_N)))	des grands poissons attendent les laits	des grands poissons attendent les laits
+PredVPS (UsePron she_Pron) (UseV sleep_V)	elle dort	elle dort
+PredVPS (DetCN thePl_Det (AdjCN (PositA heavy_A) (UseN city_N))) (UseV swim_V)	les villes lourdes nagent	les villes lourdes nagent
+PredVPS (DetCN the_Det (UseN beer_N)) (AdvVP (ComplV2 buy_V2 (UsePron they_Pron)) already_Adv)	la biŠre les achŠte d‚j…	la biŠre les achŠte d‚j…
+PredVPS (DetCN a_Det (UseN bread_N)) (ComplV2 eat_V2 (UsePron she_Pron))	un pain la mange	un pain la mange
+PredVPS (DetCN the_Det (AdjCN (PositA yellow_A) (UseN book_N))) (ComplV2 see_V2 (UsePron she_Pron))	le livre jaune la voit	le livre jaune la voit
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA bad_A)))	ils sont mauvais	ils sont mauvais
+PredVPS (UsePron he_Pron) (UseV walk_V)	il marche	il marche
+PredVPS (DetCN aPl_Det (AdjCN (PositA small_A) (UseN language_N))) (UseComp (CompAP (PositA small_A)))	des petites langues sont petites	des petites langues sont petites
+PredVPS (UsePron they_Pron) (UseV come_V)	ils viennent	ils viennent
+PredVPS (UsePron she_Pron) (UseV swim_V)	elle nage	elle nage
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA hot_A)))	ils sont chauds	ils sont chauds
+PredVPS (UsePron she_Pron) (ComplV2 buy_V2 (UsePron she_Pron))	elle l' achŠte	elle l' &+ achŠte
+PredVPS (UsePron he_Pron) (UseV live_V)	il vit	il vit
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA green_A)))	ils sont verts	ils sont verts
+PredVPS (DetCN aPl_Det (AdjCN (PositA dirty_A) (UseN apple_N))) (UseV travel_V)	des pommes sales voyagent	des pommes sales voyagent
+PredVPS (DetCN aPl_Det (AdjCN (PositA hot_A) (UseN baby_N))) (AdvVP (ComplV2 teach_V2 (UsePron she_Pron)) (PrepNP on_Prep (UsePron they_Pron)))	des b‚b‚s chauds l' enseignent sur eux	des b‚b‚s chauds l' &+ enseignent sur eux
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 drink_V2 (UsePron she_Pron)) now_Adv)	elle la boit maintenant	elle la boit maintenant
+PredVPS (DetCN aPl_Det (UseN bike_N)) (AdvVP (UseV go_V) now_Adv)	des v‚los vont maintenant	des v‚los vont maintenant
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA young_A)))	elle est jeune	elle est jeune
+PredVPS (DetCN aPl_Det (UseN house_N)) (UseV play_V)	des maisons jouent	des maisons jouent
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA old_A)))	elle est vieille	elle est vieille
+PredVPS (DetCN thePl_Det (UseN water_N)) (UseV walk_V)	les eaux marchent	les eaux marchent
+PredVPS (UsePron they_Pron) (ComplV2 eat_V2 (UsePron they_Pron))	ils les mangent	ils les mangent
+PredVPS (UsePron she_Pron) (AdvVP (UseV go_V) already_Adv)	elle va d‚j…	elle va d‚j…
+PredVPS (DetCN aPl_Det (AdjCN (PositA green_A) (UseN animal_N))) (UseComp (CompAP (PositA small_A)))	des animaux verts sont petits	des animaux verts sont petits
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV jump_V) now_Adv) now_Adv)	elle saute maintenant maintenant	elle saute maintenant maintenant
+PredVPS (DetCN thePl_Det (UseN cat_N)) (UseComp (CompAP (PositA young_A)))	les chats sont jeunes	les chats sont jeunes
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA warm_A)))	il est chaud	il est chaud
+PredVPS (UsePron he_Pron) (UseV jump_V)	il saute	il saute
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV play_V) already_Adv) already_Adv)	ils jouent d‚j… d‚j…	ils jouent d‚j… d‚j…
+PredVPS (DetCN aPl_Det (AdjCN (PositA hot_A) (UseN apple_N))) (ComplV2 wait_V2 (UsePron they_Pron))	des pommes chaudes les attendent	des pommes chaudes les attendent
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA old_A)))	ils sont vieux	ils sont vieux
+PredVPS (UsePron she_Pron) (AdvVP (UseV go_V) already_Adv)	elle va d‚j…	elle va d‚j…
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV run_V) now_Adv) now_Adv)	il court maintenant maintenant	il court maintenant maintenant
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 kill_V2 (UsePron she_Pron)) (PrepNP on_Prep (UsePron he_Pron)))	ils la tuent sur lui	ils la tuent sur lui
+PredVPS (DetCN thePl_Det (AdjCN (PositA big_A) (UseN man_N))) (UseV go_V)	les grands hommes vont	les grands hommes vont
+PredVPS (DetCN a_Det (AdjCN (PositA new_A) (UseN dog_N))) (AdvVP (UseV walk_V) already_Adv)	un nouveau chien marche d‚j…	un nouveau chien marche d‚j…
+PredVPS (UsePron they_Pron) (ComplV2 find_V2 (UsePron she_Pron))	ils la trouvent	ils la trouvent
+PredVPS (DetCN a_Det (UseN cow_N)) (AdvVP (UseV play_V) already_Adv)	une vache joue d‚j…	une vache joue d‚j…
+PredVPS (UsePron they_Pron) (UseV sleep_V)	ils dorment	ils dorment
+PredVPS (UsePron they_Pron) (ComplV2 read_V2 (UsePron they_Pron))	ils les lisent	ils les lisent
+PredVPS (DetCN aPl_Det (AdjCN (PositA hot_A) (UseN boy_N))) (UseV come_V)	des gar‡ons chauds viennent	des gar‡ons chauds viennent
+PredVPS (UsePron they_Pron) (UseV run_V)	ils courent	ils courent
+PredVPS (DetCN a_Det (UseN milk_N)) (UseComp (CompAP (PositA blue_A)))	un lait est bleu	un lait est bleu
+PredVPS (DetCN a_Det (UseN star_N)) (UseComp (CompAP (PositA red_A)))	une ‚toile est rouge	une ‚toile est rouge
+PredVPS (UsePron she_Pron) (UseV come_V)	elle vient	elle vient
+PredVPS (UsePron he_Pron) (ComplV2 kill_V2 (UsePron she_Pron))	il la tue	il la tue
+PredVPS (UsePron he_Pron) (ComplV2 drink_V2 (UsePron he_Pron))	il le boit	il le boit
+PredVPS (UsePron he_Pron) (AdvVP (UseV walk_V) (PrepNP on_Prep (UsePron she_Pron)))	il marche sur elle	il marche sur elle
+PredVPS (UsePron they_Pron) (AdvVP (UseV go_V) (PrepNP on_Prep (UsePron she_Pron)))	ils vont sur elle	ils vont sur elle
+PredVPS (UsePron they_Pron) (UseV come_V)	ils viennent	ils viennent
+PredVPS (UsePron she_Pron) (AdvVP (UseV walk_V) (PrepNP on_Prep (UsePron he_Pron)))	elle marche sur lui	elle marche sur lui
+PredVPS (DetCN aPl_Det (UseN boat_N)) (ComplV2 kill_V2 (DetCN a_Det (UseN wine_N)))	des bateaux tuent un vin	des bateaux tuent un vin
+PredVPS (DetCN aPl_Det (UseN tree_N)) (UseV come_V)	des arbres viennent	des arbres viennent
+PredVPS (UsePron he_Pron) (UseV come_V)	il vient	il vient
+PredVPS (DetCN aPl_Det (UseN horse_N)) (UseComp (CompAP (PositA small_A)))	des chevaux sont petits	des chevaux sont petits
+PredVPS (DetCN the_Det (UseN cow_N)) (AdvVP (ComplV2 drink_V2 (UsePron he_Pron)) already_Adv)	la vache le boit d‚j…	la vache le boit d‚j…
+PredVPS (UsePron he_Pron) (ComplV2 kill_V2 (DetCN the_Det (UseN train_N)))	il tue le train	il tue le train
+PredVPS (DetCN thePl_Det (AdjCN (PositA white_A) (UseN dog_N))) (UseV swim_V)	les chiens blancs nagent	les chiens blancs nagent
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clean_A)))	elle est propre	elle est propre
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 teach_V2 (UsePron she_Pron)) now_Adv)	ils l' enseignent maintenant	ils l' &+ enseignent maintenant
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 break_V2 (UsePron they_Pron)) now_Adv)	ils les cassent maintenant	ils les cassent maintenant
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA clean_A)))	elle est propre	elle est propre
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA warm_A)))	elle est chaude	elle est chaude
+PredVPS (UsePron she_Pron) (ComplV2 eat_V2 (UsePron they_Pron))	elle les mange	elle les mange
+PredVPS (UsePron they_Pron) (UseV go_V)	ils vont	ils vont
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA black_A)))	ils sont noirs	ils sont noirs
+PredVPS (DetCN the_Det (AdjCN (PositA bad_A) (UseN friend_N))) (AdvVP (UseV live_V) now_Adv)	le mauvais ami vit maintenant	le mauvais ami vit maintenant
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA young_A)))	elle est jeune	elle est jeune
+PredVPS (DetCN thePl_Det (UseN boat_N)) (AdvVP (UseV travel_V) (PrepNP on_Prep (UsePron she_Pron)))	les bateaux voyagent sur elle	les bateaux voyagent sur elle
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 wait_V2 (UsePron she_Pron)) (PrepNP on_Prep (UsePron she_Pron)))	elle l' attend sur elle	elle l' &+ attend sur elle
+PredVPS (DetCN aPl_Det (UseN ship_N)) (UseComp (CompAP (PositA cold_A)))	des navires sont froids	des bateaux sont froids
+PredVPS (DetCN aPl_Det (UseN book_N)) (UseComp (CompAP (PositA red_A)))	des livres sont rouges	des livres sont rouges
+PredVPS (DetCN the_Det (UseN wine_N)) (UseV live_V)	le vin vit	le vin vit
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV come_V) now_Adv) now_Adv)	elle vient maintenant maintenant	elle vient maintenant maintenant
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 wait_V2 (UsePron he_Pron)) now_Adv)	il l' attend maintenant	il l' &+ attend maintenant
+PredVPS (UsePron she_Pron) (ComplV2 break_V2 (UsePron she_Pron))	elle la casse	elle la casse
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV sleep_V) already_Adv) now_Adv)	il dort d‚j… maintenant	il dort d‚j… maintenant
+PredVPS (DetCN thePl_Det (AdjCN (PositA dirty_A) (UseN book_N))) (ComplV2 love_V2 (DetCN thePl_Det (UseN dog_N)))	les livres sales aiment les chiens	les livres sales aiment les chiens
+PredVPS (UsePron he_Pron) (ComplV2 drink_V2 (DetCN a_Det (UseN grammar_N)))	il boit une grammaire	il boit une grammaire
+PredVPS (DetCN thePl_Det (AdjCN (PositA young_A) (UseN man_N))) (AdvVP (AdvVP (UseV sleep_V) already_Adv) already_Adv)	les jeunes hommes dorment d‚j… d‚j…	les jeunes hommes dorment d‚j… d‚j…
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV come_V) now_Adv) now_Adv)	elle vient maintenant maintenant	elle vient maintenant maintenant
+PredVPS (UsePron he_Pron) (ComplV2 understand_V2 (UsePron they_Pron))	il les comprend	il les comprend
+PredVPS (UsePron he_Pron) (UseV travel_V)	il voyage	il voyage
+PredVPS (DetCN a_Det (UseN fire_N)) (UseComp (CompAP (PositA green_A)))	un feu est vert	un feu est vert
+PredVPS (UsePron she_Pron) (UseV run_V)	elle court	elle court
+PredVPS (DetCN a_Det (UseN computer_N)) (UseComp (CompAP (PositA black_A)))	un ordinateur est noir	un ordinateur est noir
+PredVPS (DetCN thePl_Det (UseN woman_N)) (UseV jump_V)	les femmes sautent	les femmes sautent
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA yellow_A)))	elle est jaune	elle est jaune
+PredVPS (DetCN the_Det (UseN fish_N)) (UseV go_V)	le poisson va	le poisson va
+PredVPS (DetCN aPl_Det (UseN music_N)) (UseV travel_V)	des musiques voyagent	des musiques voyagent
+PredVPS (DetCN the_Det (UseN fish_N)) (UseV sleep_V)	le poisson dort	le poisson dort
+PredVPS (DetCN a_Det (AdjCN (PositA warm_A) (UseN river_N))) (ComplV2 break_V2 (DetCN aPl_Det (UseN child_N)))	une riviŠre chaude casse des enfants	une riviŠre chaude casse des enfants
+PredVPS (UsePron he_Pron) (ComplV2 eat_V2 (DetCN aPl_Det (UseN train_N)))	il mange des trains	il mange des trains
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA old_A)))	elle est vieille	elle est vieille
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA clean_A)))	ils sont propres	ils sont propres
+PredVPS (DetCN aPl_Det (UseN boy_N)) (AdvVP (UseV play_V) now_Adv)	des gar‡ons jouent maintenant	des gar‡ons jouent maintenant
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA hot_A)))	elle est chaude	elle est chaude
+PredVPS (DetCN the_Det (UseN sea_N)) (ComplV2 wait_V2 (UsePron they_Pron))	la mer les attend	la mer les attend
+PredVPS (UsePron they_Pron) (ComplV2 drink_V2 (DetCN a_Det (UseN bike_N)))	ils boivent un v‚lo	ils boivent un v‚lo
+PredVPS (UsePron she_Pron) (AdvVP (AdvVP (UseV walk_V) now_Adv) already_Adv)	elle marche maintenant d‚j…	elle marche maintenant d‚j…
+PredVPS (DetCN a_Det (AdjCN (PositA cold_A) (UseN milk_N))) (UseV walk_V)	un lait froid marche	un lait froid marche
+PredVPS (DetCN a_Det (AdjCN (PositA blue_A) (UseN grammar_N))) (UseComp (CompAP (PositA cold_A)))	une grammaire bleue est froide	une grammaire bleue est froide
+PredVPS (UsePron she_Pron) (ComplV2 buy_V2 (DetCN aPl_Det (UseN sea_N)))	elle achŠte des mers	elle achŠte des mers
+PredVPS (DetCN the_Det (AdjCN (PositA black_A) (UseN star_N))) (AdvVP (ComplV2 love_V2 (UsePron he_Pron)) already_Adv)	l' ‚toile noire l' aime d‚j…	l' &+ ‚toile noire l' &+ aime d‚j…
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 drink_V2 (UsePron they_Pron)) now_Adv)	elle les boit maintenant	elle les boit maintenant
+PredVPS (DetCN a_Det (UseN fire_N)) (UseComp (CompAP (PositA hot_A)))	un feu est chaud	un feu est chaud
+PredVPS (DetCN aPl_Det (AdjCN (PositA big_A) (UseN bike_N))) (AdvVP (AdvVP (UseV travel_V) now_Adv) already_Adv)	des grands v‚los voyagent maintenant d‚j…	des grands v‚los voyagent maintenant d‚j…
+PredVPS (DetCN the_Det (UseN apple_N)) (ComplV2 teach_V2 (UsePron she_Pron))	la pomme l' enseigne	la pomme l' &+ enseigne
+PredVPS (UsePron he_Pron) (AdvVP (ComplV2 kill_V2 (UsePron he_Pron)) (PrepNP on_Prep (UsePron she_Pron)))	il le tue sur elle	il le tue sur elle
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 kill_V2 (UsePron they_Pron)) now_Adv)	elle les tue maintenant	elle les tue maintenant
+PredVPS (DetCN aPl_Det (UseN car_N)) (AdvVP (ComplV2 see_V2 (UsePron he_Pron)) already_Adv)	des voitures le voient d‚j…	des voitures le voient d‚j…
+PredVPS (DetCN aPl_Det (UseN star_N)) (UseComp (CompAP (PositA ready_A)))	des ‚toiles sont prˆtes	des ‚toiles sont prˆtes
+PredVPS (DetCN the_Det (UseN boat_N)) (AdvVP (ComplV2 see_V2 (UsePron he_Pron)) now_Adv)	le bateau le voit maintenant	le bateau le voit maintenant
+PredVPS (DetCN aPl_Det (UseN star_N)) (UseComp (CompAP (PositA white_A)))	des ‚toiles sont blanches	des ‚toiles sont blanches
+PredVPS (UsePron he_Pron) (UseV play_V)	il joue	il joue
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA yellow_A)))	elle est jaune	elle est jaune
+PredVPS (UsePron they_Pron) (ComplV2 break_V2 (DetCN a_Det (UseN star_N)))	ils cassent une ‚toile	ils cassent une ‚toile
+PredVPS (UsePron she_Pron) (AdvVP (ComplV2 see_V2 (UsePron he_Pron)) already_Adv)	elle le voit d‚j…	elle le voit d‚j…
+PredVPS (DetCN the_Det (AdjCN (PositA dirty_A) (UseN milk_N))) (UseV swim_V)	le lait sale nage	le lait sale nage
+PredVPS (DetCN aPl_Det (UseN wine_N)) (AdvVP (ComplV2 kill_V2 (UsePron they_Pron)) now_Adv)	des vins les tuent maintenant	des vins les tuent maintenant
+PredVPS (DetCN the_Det (AdjCN (PositA old_A) (UseN boat_N))) (UseV jump_V)	le vieux bateau saute	le vieux bateau saute
+PredVPS (UsePron he_Pron) (ComplV2 break_V2 (DetCN a_Det (UseN animal_N)))	il casse un animal	il casse un animal
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA clever_A)))	ils sont intelligents	ils sont sages
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA small_A)))	il est petit	il est petit
+PredVPS (UsePron he_Pron) (ComplV2 see_V2 (UsePron she_Pron))	il la voit	il la voit
+PredVPS (DetCN a_Det (UseN apple_N)) (ComplV2 break_V2 (UsePron she_Pron))	une pomme la casse	une pomme la casse
+PredVPS (DetCN the_Det (AdjCN (PositA red_A) (UseN star_N))) (UseV play_V)	l' ‚toile rouge joue	l' &+ ‚toile rouge joue
+PredVPS (DetCN thePl_Det (UseN man_N)) (AdvVP (ComplV2 teach_V2 (UsePron she_Pron)) already_Adv)	les hommes l' enseignent d‚j…	les hommes l' &+ enseignent d‚j…
+PredVPS (DetCN aPl_Det (UseN child_N)) (ComplV2 see_V2 (DetCN a_Det (UseN river_N)))	des enfants voient une riviŠre	des enfants voient une riviŠre
+PredVPS (UsePron they_Pron) (UseV come_V)	ils viennent	ils viennent
+PredVPS (UsePron they_Pron) (ComplV2 find_V2 (DetCN the_Det (UseN beer_N)))	ils trouvent la biŠre	ils trouvent la biŠre
+PredVPS (DetCN aPl_Det (UseN river_N)) (UseComp (CompAP (PositA clever_A)))	des riviŠres sont intelligentes	des riviŠres sont sages
+PredVPS (DetCN the_Det (UseN girl_N)) (AdvVP (AdvVP (UseV come_V) now_Adv) already_Adv)	la fille vient maintenant d‚j…	la fille vient maintenant d‚j…
+PredVPS (DetCN a_Det (UseN baby_N)) (UseComp (CompAP (PositA red_A)))	un b‚b‚ est rouge	un b‚b‚ est rouge
+PredVPS (DetCN aPl_Det (UseN cow_N)) (ComplV2 find_V2 (DetCN thePl_Det (UseN bird_N)))	des vaches trouvent les oiseaux	des vaches trouvent les oiseaux
+PredVPS (DetCN the_Det (AdjCN (PositA small_A) (UseN boy_N))) (UseComp (CompAP (PositA blue_A)))	le petit gar‡on est bleu	le petit gar‡on est bleu
+PredVPS (UsePron she_Pron) (UseV live_V)	elle vit	elle vit
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA red_A)))	ils sont rouges	ils sont rouges
+PredVPS (UsePron they_Pron) (ComplV2 drink_V2 (UsePron she_Pron))	ils la boivent	ils la boivent
+PredVPS (DetCN thePl_Det (AdjCN (PositA good_A) (UseN fish_N))) (AdvVP (AdvVP (UseV walk_V) now_Adv) now_Adv)	les bons poissons marchent maintenant maintenant	les bons poissons marchent maintenant maintenant
+PredVPS (UsePron he_Pron) (UseV jump_V)	il saute	il saute
+PredVPS (DetCN thePl_Det (AdjCN (PositA old_A) (UseN wine_N))) (UseComp (CompAP (PositA hot_A)))	les vieux vins sont chauds	les vieux vins sont chauds
+PredVPS (DetCN the_Det (AdjCN (PositA warm_A) (UseN car_N))) (UseComp (CompAP (PositA white_A)))	la voiture chaude est blanche	la voiture chaude est blanche
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA red_A)))	ils sont rouges	ils sont rouges
+PredVPS (DetCN a_Det (AdjCN (PositA small_A) (UseN boat_N))) (AdvVP (UseV go_V) already_Adv)	un petit bateau va d‚j…	un petit bateau va d‚j…
+PredVPS (DetCN aPl_Det (AdjCN (PositA ready_A) (UseN friend_N))) (UseV swim_V)	des amis prˆts nagent	des amis prˆts nagent
+PredVPS (DetCN a_Det (AdjCN (PositA green_A) (UseN milk_N))) (UseV swim_V)	un lait vert nage	un lait vert nage
+PredVPS (DetCN aPl_Det (UseN ship_N)) (ComplV2 love_V2 (UsePron they_Pron))	des navires les aiment	des bateaux les aiment
+PredVPS (DetCN aPl_Det (UseN horse_N)) (UseV go_V)	des chevaux vont	des chevaux vont
+PredVPS (DetCN the_Det (UseN water_N)) (AdvVP (UseV live_V) (PrepNP with_Prep (UsePron he_Pron)))	l' eau vit avec lui	l' &+ eau vit avec lui
+PredVPS (DetCN the_Det (UseN computer_N)) (UseV live_V)	l' ordinateur vit	l' &+ ordinateur vit
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA bad_A)))	ils sont mauvais	ils sont mauvais
+PredVPS (DetCN aPl_Det (AdjCN (PositA yellow_A) (UseN cloud_N))) (UseComp (CompAP (PositA black_A)))	des nuages jaunes sont noirs	des nuages jaunes sont noirs
+PredVPS (DetCN a_Det (AdjCN (PositA big_A) (UseN friend_N))) (ComplV2 kill_V2 (DetCN a_Det (UseN wine_N)))	un grand ami tue un vin	un grand ami tue un vin
+PredVPS (UsePron he_Pron) (UseV live_V)	il vit	il vit
+PredVPS (DetCN thePl_Det (UseN car_N)) (AdvVP (ComplV2 understand_V2 (UsePron they_Pron)) (PrepNP with_Prep (UsePron they_Pron)))	les voitures les comprennent avec eux	les voitures les comprennent avec eux
+PredVPS (UsePron he_Pron) (ComplV2 teach_V2 (DetCN a_Det (UseN water_N)))	il enseigne une eau	il enseigne une eau
+PredVPS (DetCN aPl_Det (AdjCN (PositA red_A) (UseN dog_N))) (UseComp (CompAP (PositA good_A)))	des chiens rouges sont bons	des chiens rouges sont bons
+PredVPS (DetCN thePl_Det (AdjCN (PositA small_A) (UseN boy_N))) (UseComp (CompAP (PositA green_A)))	les petits gar‡ons sont verts	les petits gar‡ons sont verts
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA dirty_A)))	elle est sale	elle est sale
+PredVPS (DetCN aPl_Det (UseN cow_N)) (ComplV2 find_V2 (DetCN aPl_Det (UseN train_N)))	des vaches trouvent des trains	des vaches trouvent des trains
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA ready_A)))	elle est prˆte	elle est prˆte
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA clean_A)))	ils sont propres	ils sont propres
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA big_A)))	il est grand	il est grand
+PredVPS (DetCN aPl_Det (UseN animal_N)) (UseComp (CompAP (PositA clever_A)))	des animaux sont intelligents	des animaux sont sages
+PredVPS (DetCN the_Det (AdjCN (PositA dirty_A) (UseN cloud_N))) (UseComp (CompAP (PositA small_A)))	le nuage sale est petit	le nuage sale est petit
+PredVPS (DetCN aPl_Det (AdjCN (PositA bad_A) (UseN computer_N))) (UseComp (CompAP (PositA clean_A)))	des mauvais ordinateurs sont propres	des mauvais ordinateurs sont propres
+PredVPS (DetCN a_Det (AdjCN (PositA big_A) (UseN wine_N))) (UseV run_V)	un grand vin court	un grand vin court
+PredVPS (UsePron they_Pron) (ComplV2 kill_V2 (DetCN a_Det (UseN boat_N)))	ils tuent un bateau	ils tuent un bateau
+PredVPS (DetCN the_Det (AdjCN (PositA cold_A) (UseN fish_N))) (UseV live_V)	le poisson froid vit	le poisson froid vit
+PredVPS (DetCN the_Det (UseN tree_N)) (ComplV2 teach_V2 (UsePron he_Pron))	l' arbre l' enseigne	l' &+ arbre l' &+ enseigne
+PredVPS (DetCN a_Det (UseN boat_N)) (AdvVP (AdvVP (UseV run_V) now_Adv) (PrepNP on_Prep (UsePron she_Pron)))	un bateau court maintenant sur elle	un bateau court maintenant sur elle
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 teach_V2 (UsePron he_Pron)) already_Adv)	ils l' enseignent d‚j…	ils l' &+ enseignent d‚j…
+PredVPS (UsePron they_Pron) (AdvVP (AdvVP (UseV come_V) now_Adv) (PrepNP on_Prep (UsePron she_Pron)))	ils viennent maintenant sur elle	ils viennent maintenant sur elle
+PredVPS (DetCN the_Det (UseN wine_N)) (UseComp (CompAP (PositA yellow_A)))	le vin est jaune	le vin est jaune
+PredVPS (DetCN aPl_Det (AdjCN (PositA red_A) (UseN child_N))) (UseComp (CompAP (PositA blue_A)))	des enfants rouges sont bleus	des enfants rouges sont bleus
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (DetCN a_Det (UseN river_N)))	ils attendent une riviŠre	ils attendent une riviŠre
+PredVPS (DetCN the_Det (AdjCN (PositA big_A) (UseN beer_N))) (AdvVP (UseV play_V) now_Adv)	la grande biŠre joue maintenant	la grande biŠre joue maintenant
+PredVPS (DetCN the_Det (AdjCN (PositA good_A) (UseN boy_N))) (AdvVP (UseV sleep_V) now_Adv)	le bon gar‡on dort maintenant	le bon gar‡on dort maintenant
+PredVPS (DetCN a_Det (AdjCN (PositA warm_A) (UseN bread_N))) (ComplV2 wait_V2 (UsePron she_Pron))	un pain chaud l' attend	un pain chaud l' &+ attend
+PredVPS (DetCN aPl_Det (UseN train_N)) (UseComp (CompAP (PositA clever_A)))	des trains sont intelligents	des trains sont sages
+PredVPS (DetCN aPl_Det (UseN boat_N)) (AdvVP (UseV walk_V) now_Adv)	des bateaux marchent maintenant	des bateaux marchent maintenant
+PredVPS (DetCN a_Det (AdjCN (PositA white_A) (UseN city_N))) (UseV live_V)	une ville blanche vit	une ville blanche vit
+PredVPS (DetCN the_Det (AdjCN (PositA dirty_A) (UseN baby_N))) (UseComp (CompAP (PositA green_A)))	le b‚b‚ sale est vert	le b‚b‚ sale est vert
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (DetCN a_Det (UseN bread_N)))	ils attendent un pain	ils attendent un pain
+PredVPS (DetCN thePl_Det (AdjCN (PositA dirty_A) (UseN child_N))) (ComplV2 see_V2 (DetCN thePl_Det (UseN star_N)))	les enfants sales voient les ‚toiles	les enfants sales voient les ‚toiles
+PredVPS (DetCN the_Det (AdjCN (PositA hot_A) (UseN man_N))) (UseComp (CompAP (PositA clean_A)))	l' homme chaud est propre	l' &+ homme chaud est propre
+PredVPS (UsePron he_Pron) (ComplV2 kill_V2 (UsePron they_Pron))	il les tue	il les tue
+PredVPS (UsePron he_Pron) (UseV play_V)	il joue	il joue
+PredVPS (DetCN aPl_Det (AdjCN (PositA black_A) (UseN apple_N))) (AdvVP (UseV go_V) already_Adv)	des pommes noires vont d‚j…	des pommes noires vont d‚j…
+PredVPS (UsePron they_Pron) (UseV come_V)	ils viennent	ils viennent
+PredVPS (DetCN thePl_Det (UseN wine_N)) (UseComp (CompAP (PositA clever_A)))	les vins sont intelligents	les vins sont sages
+PredVPS (UsePron they_Pron) (UseV run_V)	ils courent	ils courent
+PredVPS (DetCN thePl_Det (AdjCN (PositA red_A) (UseN boat_N))) (AdvVP (ComplV2 love_V2 (UsePron he_Pron)) now_Adv)	les bateaux rouges l' aiment maintenant	les bateaux rouges l' &+ aiment maintenant
+PredVPS (UsePron she_Pron) (UseV run_V)	elle court	elle court
+PredVPS (DetCN aPl_Det (UseN bread_N)) (AdvVP (UseV jump_V) (PrepNP with_Prep (UsePron he_Pron)))	des pains sautent avec lui	des pains sautent avec lui
+PredVPS (DetCN a_Det (AdjCN (PositA clean_A) (UseN dog_N))) (UseV go_V)	un chien propre va	un chien propre va
+PredVPS (UsePron they_Pron) (UseV come_V)	ils viennent	ils viennent
+PredVPS (DetCN the_Det (UseN train_N)) (UseComp (CompAP (PositA warm_A)))	le train est chaud	le train est chaud
+PredVPS (UsePron they_Pron) (UseV jump_V)	ils sautent	ils sautent
+PredVPS (UsePron he_Pron) (ComplV2 break_V2 (DetCN the_Det (UseN flower_N)))	il casse la fleur	il casse la fleur
+PredVPS (UsePron he_Pron) (UseV walk_V)	il marche	il marche
+PredVPS (UsePron she_Pron) (UseV sleep_V)	elle dort	elle dort
+PredVPS (UsePron they_Pron) (AdvVP (UseV walk_V) already_Adv)	ils marchent d‚j…	ils marchent d‚j…
+PredVPS (UsePron he_Pron) (ComplV2 love_V2 (UsePron they_Pron))	il les aime	il les aime
+PredVPS (DetCN aPl_Det (UseN baby_N)) (UseV swim_V)	des b‚b‚s nagent	des b‚b‚s nagent
+PredVPS (UsePron he_Pron) (ComplV2 find_V2 (DetCN thePl_Det (UseN grammar_N)))	il trouve les grammaires	il trouve les grammaires
+PredVPS (DetCN thePl_Det (UseN car_N)) (UseComp (CompAP (PositA clean_A)))	les voitures sont propres	les voitures sont propres
+PredVPS (DetCN aPl_Det (AdjCN (PositA clean_A) (UseN sea_N))) (ComplV2 kill_V2 (DetCN aPl_Det (UseN cloud_N)))	des mers propres tuent des nuages	des mers propres tuent des nuages
+PredVPS (DetCN thePl_Det (UseN dog_N)) (UseComp (CompAP (PositA hot_A)))	les chiens sont chauds	les chiens sont chauds
+PredVPS (DetCN aPl_Det (AdjCN (PositA clean_A) (UseN city_N))) (UseV travel_V)	des villes propres voyagent	des villes propres voyagent
+PredVPS (DetCN thePl_Det (AdjCN (PositA white_A) (UseN fire_N))) (UseV come_V)	les feux blancs viennent	les feux blancs viennent
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA hot_A)))	elle est chaude	elle est chaude
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA blue_A)))	ils sont bleus	ils sont bleus
+PredVPS (DetCN aPl_Det (UseN flower_N)) (UseComp (CompAP (PositA old_A)))	des fleurs sont vieilles	des fleurs sont vieilles
+PredVPS (DetCN thePl_Det (AdjCN (PositA ready_A) (UseN cow_N))) (ComplV2 break_V2 (UsePron she_Pron))	les vaches prˆtes la cassent	les vaches prˆtes la cassent
+PredVPS (UsePron they_Pron) (UseV go_V)	ils vont	ils vont
+PredVPS (DetCN a_Det (AdjCN (PositA white_A) (UseN train_N))) (ComplV2 buy_V2 (DetCN aPl_Det (UseN grammar_N)))	un train blanc achŠte des grammaires	un train blanc achŠte des grammaires
+PredVPS (DetCN a_Det (UseN milk_N)) (ComplV2 wait_V2 (UsePron he_Pron))	un lait l' attend	un lait l' &+ attend
+PredVPS (DetCN a_Det (AdjCN (PositA dirty_A) (UseN computer_N))) (UseComp (CompAP (PositA small_A)))	un ordinateur sale est petit	un ordinateur sale est petit
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA warm_A)))	ils sont chauds	ils sont chauds
+PredVPS (DetCN thePl_Det (AdjCN (PositA green_A) (UseN train_N))) (AdvVP (AdvVP (UseV run_V) already_Adv) now_Adv)	les trains verts courent d‚j… maintenant	les trains verts courent d‚j… maintenant
+PredVPS (DetCN a_Det (AdjCN (PositA small_A) (UseN bike_N))) (UseV jump_V)	un petit v‚lo saute	un petit v‚lo saute
+PredVPS (UsePron they_Pron) (ComplV2 wait_V2 (UsePron he_Pron))	ils l' attendent	ils l' &+ attendent
+PredVPS (DetCN thePl_Det (AdjCN (PositA new_A) (UseN water_N))) (UseV go_V)	les nouvelles eaux vont	les nouvelles eaux vont
+PredVPS (UsePron he_Pron) (ComplV2 find_V2 (UsePron they_Pron))	il les trouve	il les trouve
+PredVPS (DetCN thePl_Det (AdjCN (PositA clean_A) (UseN boy_N))) (UseV swim_V)	les gar‡ons propres nagent	les gar‡ons propres nagent
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA big_A)))	il est grand	il est grand
+PredVPS (DetCN the_Det (UseN friend_N)) (UseComp (CompAP (PositA young_A)))	l' ami est jeune	l' &+ ami est jeune
+PredVPS (DetCN the_Det (AdjCN (PositA green_A) (UseN water_N))) (UseV walk_V)	l' eau verte marche	l' &+ eau verte marche
+PredVPS (DetCN a_Det (AdjCN (PositA clever_A) (UseN woman_N))) (UseV travel_V)	une femme intelligente voyage	une femme sage voyage
+PredVPS (DetCN aPl_Det (UseN beer_N)) (AdvVP (ComplV2 read_V2 (UsePron he_Pron)) now_Adv)	des biŠres le lisent maintenant	des biŠres le lisent maintenant
+PredVPS (UsePron he_Pron) (UseV walk_V)	il marche	il marche
+PredVPS (DetCN aPl_Det (AdjCN (PositA cold_A) (UseN fire_N))) (ComplV2 read_V2 (UsePron they_Pron))	des feux froids les lisent	des feux froids les lisent
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA big_A)))	il est grand	il est grand
+PredVPS (UsePron they_Pron) (UseV jump_V)	ils sautent	ils sautent
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA blue_A)))	elle est bleue	elle est bleue
+PredVPS (DetCN a_Det (UseN child_N)) (AdvVP (AdvVP (UseV walk_V) now_Adv) already_Adv)	un enfant marche maintenant d‚j…	un enfant marche maintenant d‚j…
+PredVPS (UsePron they_Pron) (ComplV2 see_V2 (DetCN the_Det (UseN milk_N)))	ils voient le lait	ils voient le lait
+PredVPS (DetCN a_Det (UseN water_N)) (UseComp (CompAP (PositA green_A)))	une eau est verte	une eau est verte
+PredVPS (DetCN aPl_Det (UseN girl_N)) (UseV jump_V)	des filles sautent	des filles sautent
+PredVPS (DetCN thePl_Det (AdjCN (PositA blue_A) (UseN cloud_N))) (UseComp (CompAP (PositA heavy_A)))	les nuages bleus sont lourds	les nuages bleus sont lourds
+PredVPS (DetCN aPl_Det (AdjCN (PositA young_A) (UseN tree_N))) (ComplV2 read_V2 (UsePron she_Pron))	des jeunes arbres la lisent	des jeunes arbres la lisent
+PredVPS (DetCN thePl_Det (UseN apple_N)) (UseV walk_V)	les pommes marchent	les pommes marchent
+PredVPS (DetCN aPl_Det (UseN sea_N)) (ComplV2 wait_V2 (DetCN the_Det (UseN train_N)))	des mers attendent le train	des mers attendent le train
+PredVPS (UsePron she_Pron) (AdvVP (UseV go_V) already_Adv)	elle va d‚j…	elle va d‚j…
+PredVPS (UsePron he_Pron) (AdvVP (UseV run_V) (PrepNP on_Prep (UsePron they_Pron)))	il court sur eux	il court sur eux
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA green_A)))	il est vert	il est vert
+PredVPS (DetCN thePl_Det (AdjCN (PositA ready_A) (UseN boat_N))) (AdvVP (UseV travel_V) (PrepNP in_Prep (UsePron they_Pron)))	les bateaux prˆts voyagent dans eux	les bateaux prˆts voyagent dans eux
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA ready_A)))	ils sont prˆts	ils sont prˆts
+PredVPS (DetCN aPl_Det (AdjCN (PositA old_A) (UseN ship_N))) (AdvVP (UseV play_V) already_Adv)	des vieux navires jouent d‚j…	des vieux bateaux jouent d‚j…
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA bad_A)))	ils sont mauvais	ils sont mauvais
+PredVPS (UsePron they_Pron) (UseComp (CompAP (PositA small_A)))	ils sont petits	ils sont petits
+PredVPS (DetCN the_Det (UseN animal_N)) (ComplV2 find_V2 (DetCN a_Det (UseN cow_N)))	l' animal trouve une vache	l' &+ animal trouve une vache
+PredVPS (DetCN thePl_Det (UseN cloud_N)) (AdvVP (ComplV2 wait_V2 (UsePron he_Pron)) already_Adv)	les nuages l' attendent d‚j…	les nuages l' &+ attendent d‚j…
+PredVPS (DetCN aPl_Det (AdjCN (PositA clean_A) (UseN music_N))) (AdvVP (UseV run_V) now_Adv)	des musiques propres courent maintenant	des musiques propres courent maintenant
+PredVPS (DetCN the_Det (AdjCN (PositA dirty_A) (UseN water_N))) (UseV come_V)	l' eau sale vient	l' &+ eau sale vient
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA heavy_A)))	il est lourd	il est lourd
+PredVPS (UsePron she_Pron) (UseComp (CompAP (PositA small_A)))	elle est petite	elle est petite
+PredVPS (UsePron he_Pron) (ComplV2 find_V2 (UsePron she_Pron))	il la trouve	il la trouve
+PredVPS (UsePron he_Pron) (UseV run_V)	il court	il court
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV travel_V) now_Adv) now_Adv)	il voyage maintenant maintenant	il voyage maintenant maintenant
+PredVPS (DetCN thePl_Det (AdjCN (PositA dirty_A) (UseN bird_N))) (ComplV2 understand_V2 (UsePron they_Pron))	les oiseaux sales les comprennent	les oiseaux sales les comprennent
+PredVPS (DetCN aPl_Det (AdjCN (PositA hot_A) (UseN cat_N))) (AdvVP (ComplV2 eat_V2 (UsePron she_Pron)) now_Adv)	des chats chauds la mangent maintenant	des chats chauds la mangent maintenant
+PredVPS (UsePron they_Pron) (ComplV2 teach_V2 (UsePron they_Pron))	ils les enseignent	ils les enseignent
+PredVPS (UsePron they_Pron) (AdvVP (ComplV2 find_V2 (UsePron she_Pron)) now_Adv)	ils la trouvent maintenant	ils la trouvent maintenant
+PredVPS (UsePron she_Pron) (AdvVP (UseV sleep_V) already_Adv)	elle dort d‚j…	elle dort d‚j…
+PredVPS (DetCN the_Det (AdjCN (PositA new_A) (UseN beer_N))) (AdvVP (AdvVP (UseV sleep_V) now_Adv) now_Adv)	la nouvelle biŠre dort maintenant maintenant	la nouvelle biŠre dort maintenant maintenant
+PredVPS (UsePron she_Pron) (UseV sleep_V)	elle dort	elle dort
+PredVPS (UsePron he_Pron) (AdvVP (AdvVP (UseV run_V) now_Adv) now_Adv)	il court maintenant maintenant	il court maintenant maintenant
+PredVPS (UsePron he_Pron) (UseComp (CompAP (PositA young_A)))	il est jeune	il est jeune
+PredVPS (DetCN the_Det (AdjCN (PositA green_A) (UseN blood_N))) (UseComp (CompAP (PositA new_A)))	le sang vert est nouveau	le sang vert est nouveau
+
+78 msec
+MicroLang> See you.
+0 msec

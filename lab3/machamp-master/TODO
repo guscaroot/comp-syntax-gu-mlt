@@ -1,0 +1,31 @@
+2025-04-30 06:20:10,901 - ERROR - STDERR - /home/robv/.local/lib/python3.12/site-packages/torch/utils/data/sampler.py:68: UserWarning: `data_source` argument is not used and will be removed in 2.2.0.You may still have custom implementation that utilizes it.
+
+
+tofix:
+- Metrics might be broken (accuracy is) for unknown labels, because of distinction between UNK/PAD
+- freeze or random seems to be broken (if frozen and random performance is still high): guess its freezing
+- pick last subwords embedding for decoder only models for classification ('encoder' in str(model))
+- Memory usage goes up when reaching the final prediction step
+- Metrics do not match after saving/loading the model?! (try EWT for 5 steps, and LAS is one off in "correct" counts)
+- When downloading model it is now logged as ERROR - STDERR
+- F1 for multiseq
+
+Clean later:
+- for string2string find closest label if the exact one is not there?
+- report average instead of sum?
+- Batches should just be a class instead of a dict
+- "." can not be part of a task name because of scalars dict, should scalars be in task_decoders?
+- Remove dependency on numpy (/jsonnet?)
+
+functionality:
+- Add support for parameter overriding from command line: python3 train.py --dataset_config configs/ewt.json --parameter transformer_model=xlm-roberta-large,batching.sampling_smoothing=0.5
+- output all tasks with predict somehow
+- Tune threshold of multiseq and multiclas automatically
+- label balancing
+- seq2seq task
+- Multi-F1
+- support longer input by classifying multiple cls tokens at once?
+- QUAD-like tasks: https://huggingface.co/docs/transformers/model_doc/roberta#transformers.RobertaForQuestionAnswering
+- support other subword strategies
+- early stopping (less stable with slanted triangular LR)?
+- fix use of LLMs
